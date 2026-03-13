@@ -130,7 +130,7 @@ This dataset is released under the [Creative Commons Attribution 4.0 Internation
 If you use this dataset, please cite:
 
 ```bibtex
-@article{naeem2025lumo,
+@article{lumo2026,
   title       = {LUMO: A Privacy-Preserving Offline Voice Assistant},
   author      = {Md. Mehedi Hasan Naeem and Mst. Kamrunnahar Ruma and
                  Nafiza Anjum and Shakila Sultana and Md. Sujan Ali},

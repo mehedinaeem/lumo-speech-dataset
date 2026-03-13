@@ -130,14 +130,12 @@ This dataset is released under the [Creative Commons Attribution 4.0 Internation
 If you use this dataset, please cite:
 
 ```bibtex
-@misc{naeem2025lumo,
-  title        = {LUMO: A Privacy-Preserving Offline Voice Assistant},
-  author       = {Naeem, Md. Mehedi Hasan and Ruma, Mst. Kamrunnahar and
-                  Anjum, Nafiza and Sultana, Shakila and Ali, Md. Sujan},
-  year         = {2025},
-  howpublished = {Department of Computer Science and Engineering,
-                  Jatiya Kabi Kazi Nazrul Islam University, Bangladesh},
-  note         = {Research project paper}
+@article{naeem2025lumo,
+  title       = {LUMO: A Privacy-Preserving Offline Voice Assistant},
+  author      = {Md. Mehedi Hasan Naeem and Mst. Kamrunnahar Ruma and
+                 Nafiza Anjum and Shakila Sultana and Md. Sujan Ali},
+  year        = {2025},
+  institution = {Jatiya Kabi Kazi Nazrul Islam University, Bangladesh}
 }
 ```
 

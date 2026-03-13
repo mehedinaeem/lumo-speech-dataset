@@ -1,0 +1,50 @@
+eng_001.wav|Hello Lumo
+eng_002.wav|Hi Lumo
+eng_003.wav|How are you
+eng_004.wav|What time is it
+eng_005.wav|What is today's date
+eng_006.wav|What is the weather today
+eng_007.wav|Open the browser
+eng_008.wav|Open Google
+eng_009.wav|Search on Google
+eng_010.wav|Play music
+eng_011.wav|Stop the music
+eng_012.wav|Increase the volume
+eng_013.wav|Decrease the volume
+eng_014.wav|Mute the sound
+eng_015.wav|Unmute the sound
+eng_016.wav|Turn on the light
+eng_017.wav|Turn off the light
+eng_018.wav|Open the calculator
+eng_019.wav|Close the calculator
+eng_020.wav|Set a reminder
+eng_021.wav|Set an alarm
+eng_022.wav|Tell me a joke
+eng_023.wav|Tell me something interesting
+eng_024.wav|Read the news
+eng_025.wav|What is artificial intelligence
+eng_026.wav|Explain machine learning
+eng_027.wav|Who is the president
+eng_028.wav|Where is Bangladesh
+eng_029.wav|What is the capital of Bangladesh
+eng_030.wav|What is two plus two
+eng_031.wav|Convert dollar to taka
+eng_032.wav|Open YouTube
+eng_033.wav|Search for Python tutorial
+eng_034.wav|Show me today's news
+eng_035.wav|Start recording
+eng_036.wav|Stop recording
+eng_037.wav|Open settings
+eng_038.wav|Close the application
+eng_039.wav|Restart the system
+eng_040.wav|Shutdown the system
+eng_041.wav|Check internet connection
+eng_042.wav|Check battery status
+eng_043.wav|What is my location
+eng_044.wav|Open the camera
+eng_045.wav|Take a picture
+eng_046.wav|Start the timer
+eng_047.wav|Stop the timer
+eng_048.wav|Add a note
+eng_049.wav|Read my notes
+eng_050.wav|Thank you Lumo

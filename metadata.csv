@@ -1,0 +1,51 @@
+filename,language,speaker,transcript
+eng_001.wav,english,speaker01,Hello Lumo
+eng_002.wav,english,speaker01,Hi Lumo
+eng_003.wav,english,speaker01,How are you
+eng_004.wav,english,speaker01,What time is it
+eng_005.wav,english,speaker01,What is today's date
+eng_006.wav,english,speaker01,What is the weather today
+eng_007.wav,english,speaker01,Open the browser
+eng_008.wav,english,speaker01,Open Google
+eng_009.wav,english,speaker01,Search on Google
+eng_010.wav,english,speaker01,Play music
+eng_011.wav,english,speaker01,Stop the music
+eng_012.wav,english,speaker01,Increase the volume
+eng_013.wav,english,speaker01,Decrease the volume
+eng_014.wav,english,speaker01,Mute the sound
+eng_015.wav,english,speaker01,Unmute the sound
+eng_016.wav,english,speaker01,Turn on the light
+eng_017.wav,english,speaker01,Turn off the light
+eng_018.wav,english,speaker01,Open the calculator
+eng_019.wav,english,speaker01,Close the calculator
+eng_020.wav,english,speaker01,Set a reminder
+eng_021.wav,english,speaker01,Set an alarm
+eng_022.wav,english,speaker01,Tell me a joke
+eng_023.wav,english,speaker01,Tell me something interesting
+eng_024.wav,english,speaker01,Read the news
+eng_025.wav,english,speaker01,What is artificial intelligence
+eng_026.wav,english,speaker01,Explain machine learning
+eng_027.wav,english,speaker01,Who is the president
+eng_028.wav,english,speaker01,Where is Bangladesh
+eng_029.wav,english,speaker01,What is the capital of Bangladesh
+eng_030.wav,english,speaker01,What is two plus two
+eng_031.wav,english,speaker01,Convert dollar to taka
+eng_032.wav,english,speaker01,Open YouTube
+eng_033.wav,english,speaker01,Search for Python tutorial
+eng_034.wav,english,speaker01,Show me today's news
+eng_035.wav,english,speaker01,Start recording
+eng_036.wav,english,speaker01,Stop recording
+eng_037.wav,english,speaker01,Open settings
+eng_038.wav,english,speaker01,Close the application
+eng_039.wav,english,speaker01,Restart the system
+eng_040.wav,english,speaker01,Shutdown the system
+eng_041.wav,english,speaker01,Check internet connection
+eng_042.wav,english,speaker01,Check battery status
+eng_043.wav,english,speaker01,What is my location
+eng_044.wav,english,speaker01,Open the camera
+eng_045.wav,english,speaker01,Take a picture
+eng_046.wav,english,speaker01,Start the timer
+eng_047.wav,english,speaker01,Stop the timer
+eng_048.wav,english,speaker01,Add a note
+eng_049.wav,english,speaker01,Read my notes
+eng_050.wav,english,speaker01,Thank you Lumo

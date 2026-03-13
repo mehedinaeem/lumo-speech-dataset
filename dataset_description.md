@@ -143,7 +143,18 @@ If you use this dataset, please cite:
 
 ## Contact
 
-For questions or collaboration, contact:
+For questions or collaboration, please reach out to any of the authors:
 
-- **Md. Mehedi Hasan Naeem** — mehedinaeem00@gmail.com
-- **Md. Sujan Ali (Supervisor)** — sujan_cse@jkkniu.edu.bd
+| Name | Role | Email |
+|------|------|-------|
+| Md. Mehedi Hasan Naeem | Author | mehedinaeem00@gmail.com |
+| Mst. Kamrunnahar Ruma | Author | kamrunnaharruma242@gmail.com |
+| Nafiza Anjum | Author | nafizaanjum.2002@gmail.com |
+| Shakila Sultana | Author | shakila161470@gmail.com |
+| Md. Sujan Ali | Supervisor | sujan_cse@jkkniu.edu.bd |
+
+All authors are affiliated with:
+
+> **Department of Computer Science & Engineering**  
+> Jatiya Kabi Kazi Nazrul Islam University (JKKNIU)  
+> Mymensingh, Bangladesh

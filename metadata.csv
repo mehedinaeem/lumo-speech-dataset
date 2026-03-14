@@ -99,3 +99,903 @@ ban_097.wav,bangla,speaker01,টাইমার বন্ধ করো
 ban_098.wav,bangla,speaker01,একটা নোট যোগ করো
 ban_099.wav,bangla,speaker01,আমার নোট পড়ে শোনাও
 ban_100.wav,bangla,speaker01,ধন্যবাদ লুমো
+eng_101.wav,english,speaker02,Turn on the light
+eng_102.wav,english,speaker02,Turn off the light
+eng_103.wav,english,speaker02,Open the door
+eng_104.wav,english,speaker02,Close the door
+eng_105.wav,english,speaker02,Increase the volume
+eng_106.wav,english,speaker02,Decrease the volume
+eng_107.wav,english,speaker02,Play some music
+eng_108.wav,english,speaker02,Stop the music
+eng_109.wav,english,speaker02,What time is it
+eng_110.wav,english,speaker02,Tell me the weather
+eng_111.wav,english,speaker02,Set an alarm
+eng_112.wav,english,speaker02,Cancel the alarm
+eng_113.wav,english,speaker02,Open my email
+eng_114.wav,english,speaker02,Check new messages
+eng_115.wav,english,speaker02,Start the timer
+eng_116.wav,english,speaker02,Stop the timer
+eng_117.wav,english,speaker02,Pause the video
+eng_118.wav,english,speaker02,Resume the video
+eng_119.wav,english,speaker02,Next song please
+eng_120.wav,english,speaker02,Previous song please
+eng_121.wav,english,speaker02,Show my schedule
+eng_122.wav,english,speaker02,Add new reminder
+eng_123.wav,english,speaker02,Delete the reminder
+eng_124.wav,english,speaker02,Read my notifications
+eng_125.wav,english,speaker02,Increase screen brightness
+eng_126.wav,english,speaker02,Decrease screen brightness
+eng_127.wav,english,speaker02,Open the browser
+eng_128.wav,english,speaker02,Close the browser
+eng_129.wav,english,speaker02,Search for news
+eng_130.wav,english,speaker02,Play the radio
+eng_131.wav,english,speaker02,Stop the radio
+eng_132.wav,english,speaker02,Lock the system
+eng_133.wav,english,speaker02,Unlock the system
+eng_134.wav,english,speaker02,Open the camera
+eng_135.wav,english,speaker02,Take a photo
+eng_136.wav,english,speaker02,Start recording video
+eng_137.wav,english,speaker02,Stop recording video
+eng_138.wav,english,speaker02,Open system settings
+eng_139.wav,english,speaker02,Close system settings
+eng_140.wav,english,speaker02,Restart the system
+eng_141.wav,english,speaker02,Shut down the system
+eng_142.wav,english,speaker02,Check system status
+eng_143.wav,english,speaker02,Open the calculator
+eng_144.wav,english,speaker02,Close the calculator
+eng_145.wav,english,speaker02,Show today's date
+eng_146.wav,english,speaker02,Show tomorrow's weather
+eng_147.wav,english,speaker02,Start voice assistant
+eng_148.wav,english,speaker02,Stop voice assistant
+eng_149.wav,english,speaker02,Enable silent mode
+eng_150.wav,english,speaker02,Disable silent mode
+ban_151.wav,bangla,speaker02,লাইট চালু করো
+ban_152.wav,bangla,speaker02,লাইট বন্ধ করো
+ban_153.wav,bangla,speaker02,দরজা খুলো
+ban_154.wav,bangla,speaker02,দরজা বন্ধ করো
+ban_155.wav,bangla,speaker02,ভলিউম বাড়াও
+ban_156.wav,bangla,speaker02,ভলিউম কমাও
+ban_157.wav,bangla,speaker02,গান চালাও
+ban_158.wav,bangla,speaker02,গান বন্ধ করো
+ban_159.wav,bangla,speaker02,সময় কত বলো
+ban_160.wav,bangla,speaker02,আজকের আবহাওয়া বলো
+ban_161.wav,bangla,speaker02,অ্যালার্ম সেট করো
+ban_162.wav,bangla,speaker02,অ্যালার্ম বন্ধ করো
+ban_163.wav,bangla,speaker02,আমার ইমেইল খুলো
+ban_164.wav,bangla,speaker02,নতুন মেসেজ দেখাও
+ban_165.wav,bangla,speaker02,টাইমার শুরু করো
+ban_166.wav,bangla,speaker02,টাইমার বন্ধ করো
+ban_167.wav,bangla,speaker02,ভিডিও থামাও
+ban_168.wav,bangla,speaker02,ভিডিও চালাও
+ban_169.wav,bangla,speaker02,পরের গান চালাও
+ban_170.wav,bangla,speaker02,আগের গান চালাও
+ban_171.wav,bangla,speaker02,আমার সময়সূচি দেখাও
+ban_172.wav,bangla,speaker02,নতুন রিমাইন্ডার দাও
+ban_173.wav,bangla,speaker02,রিমাইন্ডার মুছে দাও
+ban_174.wav,bangla,speaker02,নোটিফিকেশন পড়ে শোনাও
+ban_175.wav,bangla,speaker02,স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_176.wav,bangla,speaker02,স্ক্রিন উজ্জ্বলতা কমাও
+ban_177.wav,bangla,speaker02,ব্রাউজার খুলো
+ban_178.wav,bangla,speaker02,ব্রাউজার বন্ধ করো
+ban_179.wav,bangla,speaker02,খবর খুঁজে দাও
+ban_180.wav,bangla,speaker02,রেডিও চালাও
+ban_181.wav,bangla,speaker02,রেডিও বন্ধ করো
+ban_182.wav,bangla,speaker02,সিস্টেম লক করো
+ban_183.wav,bangla,speaker02,সিস্টেম আনলক করো
+ban_184.wav,bangla,speaker02,ক্যামেরা খুলো
+ban_185.wav,bangla,speaker02,ছবি তোলো
+ban_186.wav,bangla,speaker02,ভিডিও রেকর্ড শুরু করো
+ban_187.wav,bangla,speaker02,ভিডিও রেকর্ড বন্ধ করো
+ban_188.wav,bangla,speaker02,সেটিংস খুলো
+ban_189.wav,bangla,speaker02,সেটিংস বন্ধ করো
+ban_190.wav,bangla,speaker02,সিস্টেম রিস্টার্ট করো
+ban_191.wav,bangla,speaker02,সিস্টেম বন্ধ করো
+ban_192.wav,bangla,speaker02,সিস্টেম অবস্থা দেখাও
+ban_193.wav,bangla,speaker02,ক্যালকুলেটর খুলো
+ban_194.wav,bangla,speaker02,ক্যালকুলেটর বন্ধ করো
+ban_195.wav,bangla,speaker02,আজকের তারিখ বলো
+ban_196.wav,bangla,speaker02,আগামীকালের আবহাওয়া বলো
+ban_197.wav,bangla,speaker02,সহকারী চালু করো
+ban_198.wav,bangla,speaker02,সহকারী বন্ধ করো
+ban_199.wav,bangla,speaker02,সাইলেন্ট মোড চালু করো
+ban_200.wav,bangla,speaker02,সাইলেন্ট মোড বন্ধ করো
+eng_201.wav,english,speaker03,Turn on the kitchen light
+eng_202.wav,english,speaker03,Turn off the kitchen light
+eng_203.wav,english,speaker03,Open the main door
+eng_204.wav,english,speaker03,Close the main door
+eng_205.wav,english,speaker03,Increase speaker volume
+eng_206.wav,english,speaker03,Decrease speaker volume
+eng_207.wav,english,speaker03,Play relaxing music now
+eng_208.wav,english,speaker03,Stop the relaxing music
+eng_209.wav,english,speaker03,Tell me current time
+eng_210.wav,english,speaker03,Tell me today's weather
+eng_211.wav,english,speaker03,Set alarm for tomorrow
+eng_212.wav,english,speaker03,Cancel my morning alarm
+eng_213.wav,english,speaker03,Open the email application
+eng_214.wav,english,speaker03,Check my new messages
+eng_215.wav,english,speaker03,Start a five minute timer
+eng_216.wav,english,speaker03,Stop the running timer
+eng_217.wav,english,speaker03,Pause the playing video
+eng_218.wav,english,speaker03,Resume the paused video
+eng_219.wav,english,speaker03,Play the next song
+eng_220.wav,english,speaker03,Play the previous song
+eng_221.wav,english,speaker03,Show my daily schedule
+eng_222.wav,english,speaker03,Add reminder for meeting
+eng_223.wav,english,speaker03,Delete the meeting reminder
+eng_224.wav,english,speaker03,Read all notifications aloud
+eng_225.wav,english,speaker03,Increase screen brightness level
+eng_226.wav,english,speaker03,Decrease screen brightness level
+eng_227.wav,english,speaker03,Open the internet browser
+eng_228.wav,english,speaker03,Close the internet browser
+eng_229.wav,english,speaker03,Search the latest news
+eng_230.wav,english,speaker03,Play online radio
+eng_231.wav,english,speaker03,Stop playing radio now
+eng_232.wav,english,speaker03,Lock the computer system
+eng_233.wav,english,speaker03,Unlock the computer system
+eng_234.wav,english,speaker03,Open the camera application
+eng_235.wav,english,speaker03,Take a quick photo
+eng_236.wav,english,speaker03,Start recording video now
+eng_237.wav,english,speaker03,Stop recording video now
+eng_238.wav,english,speaker03,Open system configuration settings
+eng_239.wav,english,speaker03,Close system configuration settings
+eng_240.wav,english,speaker03,Restart the computer system
+eng_241.wav,english,speaker03,Shut down the computer system
+eng_242.wav,english,speaker03,Check system health status
+eng_243.wav,english,speaker03,Open the calculator app
+eng_244.wav,english,speaker03,Close the calculator app
+eng_245.wav,english,speaker03,Show today's full date
+eng_246.wav,english,speaker03,Show tomorrow's weather forecast
+eng_247.wav,english,speaker03,Start voice control mode
+eng_248.wav,english,speaker03,Stop voice control mode
+eng_249.wav,english,speaker03,Enable silent notification mode
+eng_250.wav,english,speaker03,Disable silent notification mode
+ban_251.wav,bangla,speaker03,রান্নাঘরের লাইট চালু করো
+ban_252.wav,bangla,speaker03,রান্নাঘরের লাইট বন্ধ করো
+ban_253.wav,bangla,speaker03,প্রধান দরজা খুলো
+ban_254.wav,bangla,speaker03,প্রধান দরজা বন্ধ করো
+ban_255.wav,bangla,speaker03,স্পিকারের ভলিউম বাড়াও
+ban_256.wav,bangla,speaker03,স্পিকারের ভলিউম কমাও
+ban_257.wav,bangla,speaker03,শান্ত গান চালাও
+ban_258.wav,bangla,speaker03,গান বাজানো বন্ধ করো
+ban_259.wav,bangla,speaker03,এখন সময় কত বলো
+ban_260.wav,bangla,speaker03,আজকের আবহাওয়া বলো
+ban_261.wav,bangla,speaker03,আগামীকাল অ্যালার্ম দাও
+ban_262.wav,bangla,speaker03,সকালের অ্যালার্ম বন্ধ করো
+ban_263.wav,bangla,speaker03,ইমেইল অ্যাপ খুলো
+ban_264.wav,bangla,speaker03,নতুন মেসেজ দেখাও
+ban_265.wav,bangla,speaker03,পাঁচ মিনিট টাইমার দাও
+ban_266.wav,bangla,speaker03,চলমান টাইমার বন্ধ করো
+ban_267.wav,bangla,speaker03,ভিডিও থামাও এখন
+ban_268.wav,bangla,speaker03,ভিডিও আবার চালাও
+ban_269.wav,bangla,speaker03,পরের গান চালাও
+ban_270.wav,bangla,speaker03,আগের গান চালাও
+ban_271.wav,bangla,speaker03,আমার সময়সূচি দেখাও
+ban_272.wav,bangla,speaker03,মিটিংয়ের রিমাইন্ডার দাও
+ban_273.wav,bangla,speaker03,রিমাইন্ডার মুছে দাও
+ban_274.wav,bangla,speaker03,সব নোটিফিকেশন পড়ো
+ban_275.wav,bangla,speaker03,স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_276.wav,bangla,speaker03,স্ক্রিন উজ্জ্বলতা কমাও
+ban_277.wav,bangla,speaker03,ইন্টারনেট ব্রাউজার খুলো
+ban_278.wav,bangla,speaker03,ইন্টারনেট ব্রাউজার বন্ধ করো
+ban_279.wav,bangla,speaker03,সর্বশেষ খবর খুঁজে দাও
+ban_280.wav,bangla,speaker03,অনলাইন রেডিও চালাও
+ban_281.wav,bangla,speaker03,রেডিও বন্ধ করো এখন
+ban_282.wav,bangla,speaker03,কম্পিউটার সিস্টেম লক করো
+ban_283.wav,bangla,speaker03,কম্পিউটার সিস্টেম আনলক করো
+ban_284.wav,bangla,speaker03,ক্যামেরা অ্যাপ খুলো
+ban_285.wav,bangla,speaker03,দ্রুত একটি ছবি তোলো
+ban_286.wav,bangla,speaker03,ভিডিও রেকর্ড শুরু করো
+ban_287.wav,bangla,speaker03,ভিডিও রেকর্ড বন্ধ করো
+ban_288.wav,bangla,speaker03,সিস্টেম সেটিংস খুলো
+ban_289.wav,bangla,speaker03,সিস্টেম সেটিংস বন্ধ করো
+ban_290.wav,bangla,speaker03,কম্পিউটার রিস্টার্ট করো
+ban_291.wav,bangla,speaker03,কম্পিউটার বন্ধ করো
+ban_292.wav,bangla,speaker03,সিস্টেম অবস্থা পরীক্ষা করো
+ban_293.wav,bangla,speaker03,ক্যালকুলেটর অ্যাপ খুলো
+ban_294.wav,bangla,speaker03,ক্যালকুলেটর অ্যাপ বন্ধ করো
+ban_295.wav,bangla,speaker03,আজকের তারিখ বলো
+ban_296.wav,bangla,speaker03,আগামীকালের আবহাওয়া বলো
+ban_297.wav,bangla,speaker03,ভয়েস নিয়ন্ত্রণ চালু করো
+ban_298.wav,bangla,speaker03,ভয়েস নিয়ন্ত্রণ বন্ধ করো
+ban_299.wav,bangla,speaker03,সাইলেন্ট মোড চালু করো
+ban_300.wav,bangla,speaker03,সাইলেন্ট মোড বন্ধ করো
+eng_301.wav,english,speaker04,Turn on bedroom light
+eng_302.wav,english,speaker04,Turn off bedroom light
+eng_303.wav,english,speaker04,Open the back window
+eng_304.wav,english,speaker04,Close the back window
+eng_305.wav,english,speaker04,Increase microphone sensitivity
+eng_306.wav,english,speaker04,Decrease microphone sensitivity
+eng_307.wav,english,speaker04,Play soft background music
+eng_308.wav,english,speaker04,Stop background music
+eng_309.wav,english,speaker04,Tell me current temperature
+eng_310.wav,english,speaker04,Show weather forecast today
+eng_311.wav,english,speaker04,Set reminder for dinner
+eng_312.wav,english,speaker04,Cancel dinner reminder
+eng_313.wav,english,speaker04,Open my task manager
+eng_314.wav,english,speaker04,Show pending tasks today
+eng_315.wav,english,speaker04,Start countdown timer now
+eng_316.wav,english,speaker04,Cancel the countdown timer
+eng_317.wav,english,speaker04,Pause this movie now
+eng_318.wav,english,speaker04,Resume the paused movie
+eng_319.wav,english,speaker04,Skip this music track
+eng_320.wav,english,speaker04,Repeat this music track
+eng_321.wav,english,speaker04,Display weekly schedule
+eng_322.wav,english,speaker04,Add reminder for call
+eng_323.wav,english,speaker04,Remove reminder for call
+eng_324.wav,english,speaker04,Read latest notifications
+eng_325.wav,english,speaker04,Increase phone brightness
+eng_326.wav,english,speaker04,Reduce phone brightness
+eng_327.wav,english,speaker04,Launch the web browser
+eng_328.wav,english,speaker04,Exit the web browser
+eng_329.wav,english,speaker04,Search for world news
+eng_330.wav,english,speaker04,Start the radio stream
+eng_331.wav,english,speaker04,Stop the radio stream
+eng_332.wav,english,speaker04,Lock my device now
+eng_333.wav,english,speaker04,Unlock my device now
+eng_334.wav,english,speaker04,Open front camera
+eng_335.wav,english,speaker04,Capture a clear photo
+eng_336.wav,english,speaker04,Begin recording video
+eng_337.wav,english,speaker04,End recording video
+eng_338.wav,english,speaker04,Access device settings
+eng_339.wav,english,speaker04,Exit device settings
+eng_340.wav,english,speaker04,Restart this device
+eng_341.wav,english,speaker04,Power off this device
+eng_342.wav,english,speaker04,Display system status
+eng_343.wav,english,speaker04,Open calculator quickly
+eng_344.wav,english,speaker04,Close calculator quickly
+eng_345.wav,english,speaker04,Display today's calendar
+eng_346.wav,english,speaker04,Show tomorrow's forecast
+eng_347.wav,english,speaker04,Start assistant listening
+eng_348.wav,english,speaker04,Stop assistant listening
+eng_349.wav,english,speaker04,Enable quiet notification
+eng_350.wav,english,speaker04,Disable quiet notification
+ban_351.wav,bangla,speaker04,বেডরুমের লাইট চালু করো
+ban_352.wav,bangla,speaker04,বেডরুমের লাইট বন্ধ করো
+ban_353.wav,bangla,speaker04,পেছনের জানালা খুলো
+ban_354.wav,bangla,speaker04,পেছনের জানালা বন্ধ করো
+ban_355.wav,bangla,speaker04,মাইক্রোফোন সংবেদনশীলতা বাড়াও
+ban_356.wav,bangla,speaker04,মাইক্রোফোন সংবেদনশীলতা কমাও
+ban_357.wav,bangla,speaker04,হালকা মিউজিক চালাও
+ban_358.wav,bangla,speaker04,মিউজিক বন্ধ করো
+ban_359.wav,bangla,speaker04,বর্তমান তাপমাত্রা বলো
+ban_360.wav,bangla,speaker04,আজকের পূর্বাভাস দেখাও
+ban_361.wav,bangla,speaker04,রাতের খাবারের রিমাইন্ডার দাও
+ban_362.wav,bangla,speaker04,খাবারের রিমাইন্ডার বাতিল করো
+ban_363.wav,bangla,speaker04,টাস্ক ম্যানেজার খুলো
+ban_364.wav,bangla,speaker04,আজকের কাজ দেখাও
+ban_365.wav,bangla,speaker04,কাউন্টডাউন শুরু করো
+ban_366.wav,bangla,speaker04,কাউন্টডাউন বাতিল করো
+ban_367.wav,bangla,speaker04,সিনেমা থামাও এখন
+ban_368.wav,bangla,speaker04,সিনেমা আবার চালাও
+ban_369.wav,bangla,speaker04,এই গান স্কিপ করো
+ban_370.wav,bangla,speaker04,এই গান আবার চালাও
+ban_371.wav,bangla,speaker04,সাপ্তাহিক সময়সূচি দেখাও
+ban_372.wav,bangla,speaker04,কলের রিমাইন্ডার দাও
+ban_373.wav,bangla,speaker04,কলের রিমাইন্ডার মুছে দাও
+ban_374.wav,bangla,speaker04,সর্বশেষ নোটিফিকেশন পড়ো
+ban_375.wav,bangla,speaker04,ফোন উজ্জ্বলতা বাড়াও
+ban_376.wav,bangla,speaker04,ফোন উজ্জ্বলতা কমাও
+ban_377.wav,bangla,speaker04,ওয়েব ব্রাউজার চালু করো
+ban_378.wav,bangla,speaker04,ওয়েব ব্রাউজার বন্ধ করো
+ban_379.wav,bangla,speaker04,বিশ্ব সংবাদ খুঁজে দাও
+ban_380.wav,bangla,speaker04,রেডিও স্ট্রিম চালু করো
+ban_381.wav,bangla,speaker04,রেডিও স্ট্রিম বন্ধ করো
+ban_382.wav,bangla,speaker04,ডিভাইস লক করো
+ban_383.wav,bangla,speaker04,ডিভাইস আনলক করো
+ban_384.wav,bangla,speaker04,সামনের ক্যামেরা খুলো
+ban_385.wav,bangla,speaker04,পরিষ্কার ছবি توলো
+ban_386.wav,bangla,speaker04,ভিডিও রেকর্ড শুরু করো
+ban_387.wav,bangla,speaker04,ভিডিও রেকর্ড শেষ করো
+ban_388.wav,bangla,speaker04,ডিভাইস সেটিংস খুলো
+ban_389.wav,bangla,speaker04,ডিভাইস সেটিংস বন্ধ করো
+ban_390.wav,bangla,speaker04,এই ডিভাইস রিস্টার্ট করো
+ban_391.wav,bangla,speaker04,এই ডিভাইস বন্ধ করো
+ban_392.wav,bangla,speaker04,সিস্টেম স্ট্যাটাস দেখাও
+ban_393.wav,bangla,speaker04,ক্যালকুলেটর দ্রুত খুলো
+ban_394.wav,bangla,speaker04,ক্যালকুলেটর দ্রুত বন্ধ করো
+ban_395.wav,bangla,speaker04,আজকের ক্যালেন্ডার দেখাও
+ban_396.wav,bangla,speaker04,আগামীকালের পূর্বাভাস দেখাও
+ban_397.wav,bangla,speaker04,সহকারী শোনা শুরু করো
+ban_398.wav,bangla,speaker04,সহকারী শোনা বন্ধ করো
+ban_399.wav,bangla,speaker04,নীরব নোটিফিকেশন চালু করো
+ban_400.wav,bangla,speaker04,নীরব নোটিফিকেশন বন্ধ করো
+eng_401.wav,english,speaker05,Turn on study lamp
+eng_402.wav,english,speaker05,Turn off study lamp
+eng_403.wav,english,speaker05,Open side window
+eng_404.wav,english,speaker05,Close side window
+eng_405.wav,english,speaker05,Increase system volume
+eng_406.wav,english,speaker05,Decrease system volume
+eng_407.wav,english,speaker05,Play relaxing piano music
+eng_408.wav,english,speaker05,Stop piano music
+eng_409.wav,english,speaker05,Tell me system time
+eng_410.wav,english,speaker05,Tell tomorrow weather
+eng_411.wav,english,speaker05,Set alarm for six
+eng_412.wav,english,speaker05,Cancel six alarm
+eng_413.wav,english,speaker05,Open notes application
+eng_414.wav,english,speaker05,Show saved notes
+eng_415.wav,english,speaker05,Start timer ten minutes
+eng_416.wav,english,speaker05,Stop timer ten minutes
+eng_417.wav,english,speaker05,Pause this podcast
+eng_418.wav,english,speaker05,Resume this podcast
+eng_419.wav,english,speaker05,Skip current track
+eng_420.wav,english,speaker05,Replay current track
+eng_421.wav,english,speaker05,Show monthly calendar
+eng_422.wav,english,speaker05,Add meeting reminder
+eng_423.wav,english,speaker05,Delete meeting reminder
+eng_424.wav,english,speaker05,Read latest alerts
+eng_425.wav,english,speaker05,Increase display brightness
+eng_426.wav,english,speaker05,Decrease display brightness
+eng_427.wav,english,speaker05,Launch internet browser
+eng_428.wav,english,speaker05,Exit internet browser
+eng_429.wav,english,speaker05,Search technology news
+eng_430.wav,english,speaker05,Start music streaming
+eng_431.wav,english,speaker05,Stop music streaming
+eng_432.wav,english,speaker05,Lock screen now
+eng_433.wav,english,speaker05,Unlock screen now
+eng_434.wav,english,speaker05,Open rear camera
+eng_435.wav,english,speaker05,Capture quick image
+eng_436.wav,english,speaker05,Start camera recording
+eng_437.wav,english,speaker05,Stop camera recording
+eng_438.wav,english,speaker05,Open control panel
+eng_439.wav,english,speaker05,Close control panel
+eng_440.wav,english,speaker05,Restart operating system
+eng_441.wav,english,speaker05,Shutdown operating system
+eng_442.wav,english,speaker05,Show device information
+eng_443.wav,english,speaker05,Launch calculator app
+eng_444.wav,english,speaker05,Exit calculator app
+eng_445.wav,english,speaker05,Show calendar events
+eng_446.wav,english,speaker05,Show weekly forecast
+eng_447.wav,english,speaker05,Activate voice assistant
+eng_448.wav,english,speaker05,Deactivate voice assistant
+eng_449.wav,english,speaker05,Enable silent notifications
+eng_450.wav,english,speaker05,Disable silent notifications
+ban_451.wav,bangla,speaker05,পড়ার ল্যাম্প চালু করো
+ban_452.wav,bangla,speaker05,পড়ার ল্যাম্প বন্ধ করো
+ban_453.wav,bangla,speaker05,পাশের জানালা খুলো
+ban_454.wav,bangla,speaker05,পাশের জানালা বন্ধ করো
+ban_455.wav,bangla,speaker05,সিস্টেম ভলিউম বাড়াও
+ban_456.wav,bangla,speaker05,সিস্টেম ভলিউম কমাও
+ban_457.wav,bangla,speaker05,পিয়ানো মিউজিক চালাও
+ban_458.wav,bangla,speaker05,পিয়ানো মিউজিক বন্ধ করো
+ban_459.wav,bangla,speaker05,সিস্টেম সময় বলো
+ban_460.wav,bangla,speaker05,আগামীকালের আবহাওয়া বলো
+ban_461.wav,bangla,speaker05,ছয়টার অ্যালার্ম দাও
+ban_462.wav,bangla,speaker05,ছয়টার অ্যালার্ম বাতিল করো
+ban_463.wav,bangla,speaker05,নোটস অ্যাপ খুলো
+ban_464.wav,bangla,speaker05,সংরক্ষিত নোট দেখাও
+ban_465.wav,bangla,speaker05,দশ মিনিট টাইমার দাও
+ban_466.wav,bangla,speaker05,দশ মিনিট টাইমার বন্ধ করো
+ban_467.wav,bangla,speaker05,পডকাস্ট থামাও
+ban_468.wav,bangla,speaker05,পডকাস্ট আবার চালাও
+ban_469.wav,bangla,speaker05,বর্তমান গান স্কিপ করো
+ban_470.wav,bangla,speaker05,বর্তমান গান আবার চালাও
+ban_471.wav,bangla,speaker05,মাসিক ক্যালেন্ডার দেখাও
+ban_472.wav,bangla,speaker05,মিটিং রিমাইন্ডার যোগ করো
+ban_473.wav,bangla,speaker05,মিটিং রিমাইন্ডার মুছে দাও
+ban_474.wav,bangla,speaker05,নতুন এলার্ট পড়ো
+ban_475.wav,bangla,speaker05,ডিসপ্লে উজ্জ্বলতা বাড়াও
+ban_476.wav,bangla,speaker05,ডিসপ্লে উজ্জ্বলতা কমাও
+ban_477.wav,bangla,speaker05,ইন্টারনেট ব্রাউজার চালু করো
+ban_478.wav,bangla,speaker05,ইন্টারনেট ব্রাউজার বন্ধ করো
+ban_479.wav,bangla,speaker05,প্রযুক্তি সংবাদ খুঁজে দাও
+ban_480.wav,bangla,speaker05,মিউজিক স্ট্রিমিং চালু করো
+ban_481.wav,bangla,speaker05,মিউজিক স্ট্রিমিং বন্ধ করো
+ban_482.wav,bangla,speaker05,স্ক্রিন লক করো
+ban_483.wav,bangla,speaker05,স্ক্রিন আনলক করো
+ban_484.wav,bangla,speaker05,পেছনের ক্যামেরা খুলো
+ban_485.wav,bangla,speaker05,দ্রুত ছবি توলো
+ban_486.wav,bangla,speaker05,ক্যামেরা রেকর্ড শুরু করো
+ban_487.wav,bangla,speaker05,ক্যামেরা রেকর্ড বন্ধ করো
+ban_488.wav,bangla,speaker05,কন্ট্রোল প্যানেল খুলো
+ban_489.wav,bangla,speaker05,কন্ট্রোল প্যানেল বন্ধ করো
+ban_490.wav,bangla,speaker05,অপারেটিং সিস্টেম রিস্টার্ট করো
+ban_491.wav,bangla,speaker05,অপারেটিং সিস্টেম বন্ধ করো
+ban_492.wav,bangla,speaker05,ডিভাইস তথ্য দেখাও
+ban_493.wav,bangla,speaker05,ক্যালকুলেটর অ্যাপ চালু করো
+ban_494.wav,bangla,speaker05,ক্যালকুলেটর অ্যাপ বন্ধ করো
+ban_495.wav,bangla,speaker05,ক্যালেন্ডার ইভেন্ট দেখাও
+ban_496.wav,bangla,speaker05,সাপ্তাহিক পূর্বাভাস দেখাও
+ban_497.wav,bangla,speaker05,ভয়েস সহকারী চালু করো
+ban_498.wav,bangla,speaker05,ভয়েস সহকারী বন্ধ করো
+ban_499.wav,bangla,speaker05,নীরব নোটিফিকেশন চালু করো
+ban_500.wav,bangla,speaker05,নীরব নোটিফিকেশন বন্ধ করো
+eng_501.wav,english,speaker06,Turn on the desk lamp
+eng_502.wav,english,speaker06,Turn off the desk lamp
+eng_503.wav,english,speaker06,Open the music library
+eng_504.wav,english,speaker06,Close the music library
+eng_505.wav,english,speaker06,Show today's reminders
+eng_506.wav,english,speaker06,Remove today's reminder
+eng_507.wav,english,speaker06,Play morning playlist
+eng_508.wav,english,speaker06,Stop morning playlist
+eng_509.wav,english,speaker06,Check today's meetings
+eng_510.wav,english,speaker06,Cancel today's meeting
+eng_511.wav,english,speaker06,Open system dashboard
+eng_512.wav,english,speaker06,Close system dashboard
+eng_513.wav,english,speaker06,Show current battery health
+eng_514.wav,english,speaker06,Show storage information
+eng_515.wav,english,speaker06,Clean system cache
+eng_516.wav,english,speaker06,Open user profile
+eng_517.wav,english,speaker06,Close user profile
+eng_518.wav,english,speaker06,Show account settings
+eng_519.wav,english,speaker06,Update profile information
+eng_520.wav,english,speaker06,Log out from account
+eng_521.wav,english,speaker06,Show nearby hospitals
+eng_522.wav,english,speaker06,Find nearest supermarket
+eng_523.wav,english,speaker06,Search nearby restaurants
+eng_524.wav,english,speaker06,Show nearby bus stops
+eng_525.wav,english,speaker06,Show nearby train station
+eng_526.wav,english,speaker06,Find nearest ATM machine
+eng_527.wav,english,speaker06,Search nearby pharmacy
+eng_528.wav,english,speaker06,Show nearby coffee shops
+eng_529.wav,english,speaker06,Find nearby bookstores
+eng_530.wav,english,speaker06,Locate nearest police station
+eng_531.wav,english,speaker06,Start meditation music
+eng_532.wav,english,speaker06,Stop meditation music
+eng_533.wav,english,speaker06,Play relaxing background music
+eng_534.wav,english,speaker06,Increase music bass level
+eng_535.wav,english,speaker06,Decrease music bass level
+eng_536.wav,english,speaker06,Show playlist details
+eng_537.wav,english,speaker06,Delete current playlist
+eng_538.wav,english,speaker06,Create new playlist
+eng_539.wav,english,speaker06,Save this playlist
+eng_540.wav,english,speaker06,Load saved playlist
+eng_541.wav,english,speaker06,Open security settings
+eng_542.wav,english,speaker06,Close security settings
+eng_543.wav,english,speaker06,Enable system firewall
+eng_544.wav,english,speaker06,Disable system firewall
+eng_545.wav,english,speaker06,Run security scan
+eng_546.wav,english,speaker06,Check system permissions
+eng_547.wav,english,speaker06,Update security policy
+eng_548.wav,english,speaker06,Reset security settings
+eng_549.wav,english,speaker06,Show login history
+eng_550.wav,english,speaker06,Clear login history
+ban_551.wav,bangla,speaker06,ডেস্ক ল্যাম্প চালু করো
+ban_552.wav,bangla,speaker06,ডেস্ক ল্যাম্প বন্ধ করো
+ban_553.wav,bangla,speaker06,মিউজিক লাইব্রেরি খুলো
+ban_554.wav,bangla,speaker06,মিউজিক লাইব্রেরি বন্ধ করো
+ban_555.wav,bangla,speaker06,আজকের রিমাইন্ডার দেখাও
+ban_556.wav,bangla,speaker06,আজকের রিমাইন্ডার মুছে দাও
+ban_557.wav,bangla,speaker06,সকালবেলার গান চালাও
+ban_558.wav,bangla,speaker06,সকালবেলার গান বন্ধ করো
+ban_559.wav,bangla,speaker06,আজকের মিটিং দেখাও
+ban_560.wav,bangla,speaker06,আজকের মিটিং বাতিল করো
+ban_561.wav,bangla,speaker06,সিস্টেম ড্যাশবোর্ড খুলো
+ban_562.wav,bangla,speaker06,সিস্টেম ড্যাশবোর্ড বন্ধ করো
+ban_563.wav,bangla,speaker06,ব্যাটারি অবস্থা দেখাও
+ban_564.wav,bangla,speaker06,স্টোরেজ তথ্য দেখাও
+ban_565.wav,bangla,speaker06,সিস্টেম ক্যাশ পরিষ্কার করো
+ban_566.wav,bangla,speaker06,ব্যবহারকারী প্রোফাইল খুলো
+ban_567.wav,bangla,speaker06,ব্যবহারকারী প্রোফাইল বন্ধ করো
+ban_568.wav,bangla,speaker06,অ্যাকাউন্ট সেটিংস দেখাও
+ban_569.wav,bangla,speaker06,প্রোফাইল তথ্য আপডেট করো
+ban_570.wav,bangla,speaker06,অ্যাকাউন্ট থেকে লগ আউট করো
+ban_571.wav,bangla,speaker06,কাছের হাসপাতাল দেখাও
+ban_572.wav,bangla,speaker06,কাছের সুপারমার্কেট খুঁজে দাও
+ban_573.wav,bangla,speaker06,কাছের রেস্টুরেন্ট খুঁজে দাও
+ban_574.wav,bangla,speaker06,কাছের বাস স্টপ দেখাও
+ban_575.wav,bangla,speaker06,কাছের ট্রেন স্টেশন দেখাও
+ban_576.wav,bangla,speaker06,কাছের এটিএম খুঁজে দাও
+ban_577.wav,bangla,speaker06,কাছের ফার্মেসি দেখাও
+ban_578.wav,bangla,speaker06,কাছের কফি শপ দেখাও
+ban_579.wav,bangla,speaker06,কাছের বইয়ের দোকান দেখাও
+ban_580.wav,bangla,speaker06,কাছের থানার অবস্থান দেখাও
+ban_581.wav,bangla,speaker06,ধ্যানের মিউজিক চালাও
+ban_582.wav,bangla,speaker06,ধ্যানের মিউজিক বন্ধ করো
+ban_583.wav,bangla,speaker06,শান্ত মিউজিক চালাও
+ban_584.wav,bangla,speaker06,মিউজিক বেস বাড়াও
+ban_585.wav,bangla,speaker06,মিউজিক বেস কমাও
+ban_586.wav,bangla,speaker06,প্লেলিস্ট বিস্তারিত দেখাও
+ban_587.wav,bangla,speaker06,বর্তমান প্লেলিস্ট মুছে দাও
+ban_588.wav,bangla,speaker06,নতুন প্লেলিস্ট তৈরি করো
+ban_589.wav,bangla,speaker06,প্লেলিস্ট সংরক্ষণ করো
+ban_590.wav,bangla,speaker06,সংরক্ষিত প্লেলিস্ট চালাও
+ban_591.wav,bangla,speaker06,সিকিউরিটি সেটিংস খুলো
+ban_592.wav,bangla,speaker06,সিকিউরিটি সেটিংস বন্ধ করো
+ban_593.wav,bangla,speaker06,ফায়ারওয়াল চালু করো
+ban_594.wav,bangla,speaker06,ফায়ারওয়াল বন্ধ করো
+ban_595.wav,bangla,speaker06,সিকিউরিটি স্ক্যান চালাও
+ban_596.wav,bangla,speaker06,অনুমতি তালিকা দেখাও
+ban_597.wav,bangla,speaker06,সিকিউরিটি নীতি আপডেট করো
+ban_598.wav,bangla,speaker06,সিকিউরিটি সেটিংস রিসেট করো
+ban_599.wav,bangla,speaker06,লগইন ইতিহাস দেখাও
+ban_600.wav,bangla,speaker06,লগইন ইতিহাস মুছে দাও
+eng_601.wav,english,speaker07,Turn on the hallway light now
+eng_602.wav,english,speaker07,Turn off the hallway light now
+eng_603.wav,english,speaker07,Open the living room window
+eng_604.wav,english,speaker07,Close the living room window
+eng_605.wav,english,speaker07,Increase the speaker volume slightly
+eng_606.wav,english,speaker07,Decrease the speaker volume slightly
+eng_607.wav,english,speaker07,Play relaxing instrumental music please
+eng_608.wav,english,speaker07,Stop the instrumental music now
+eng_609.wav,english,speaker07,Tell me the exact time now
+eng_610.wav,english,speaker07,Show today's complete weather forecast
+eng_611.wav,english,speaker07,Set alarm for tomorrow morning six
+eng_612.wav,english,speaker07,Cancel tomorrow morning alarm immediately
+eng_613.wav,english,speaker07,Open the notes application quickly
+eng_614.wav,english,speaker07,Show my saved meeting notes
+eng_615.wav,english,speaker07,Start a ten minute timer now
+eng_616.wav,english,speaker07,Stop the running timer immediately
+eng_617.wav,english,speaker07,Pause the currently playing podcast
+eng_618.wav,english,speaker07,Resume the paused podcast playback
+eng_619.wav,english,speaker07,Skip the currently playing music track
+eng_620.wav,english,speaker07,Replay the previously played music track
+eng_621.wav,english,speaker07,Show my full weekly schedule
+eng_622.wav,english,speaker07,Add reminder for tomorrow's team meeting
+eng_623.wav,english,speaker07,Delete reminder for tomorrow's meeting
+eng_624.wav,english,speaker07,Read all unread notifications aloud
+eng_625.wav,english,speaker07,Increase the laptop screen brightness level
+eng_626.wav,english,speaker07,Reduce the laptop screen brightness level
+eng_627.wav,english,speaker07,Open the default web browser
+eng_628.wav,english,speaker07,Close the default web browser
+eng_629.wav,english,speaker07,Search latest technology news online
+eng_630.wav,english,speaker07,Play live radio station now
+eng_631.wav,english,speaker07,Stop playing live radio station
+eng_632.wav,english,speaker07,Lock the laptop screen immediately
+eng_633.wav,english,speaker07,Unlock the laptop screen now
+eng_634.wav,english,speaker07,Open the rear camera application
+eng_635.wav,english,speaker07,Capture a clear photo quickly
+eng_636.wav,english,speaker07,Start recording a short video
+eng_637.wav,english,speaker07,Stop recording the current video
+eng_638.wav,english,speaker07,Open the advanced system settings
+eng_639.wav,english,speaker07,Close the advanced system settings
+eng_640.wav,english,speaker07,Restart the entire computer system
+eng_641.wav,english,speaker07,Shut down the computer completely
+eng_642.wav,english,speaker07,Show current system health status
+eng_643.wav,english,speaker07,Launch the calculator application now
+eng_644.wav,english,speaker07,Close the calculator application now
+eng_645.wav,english,speaker07,Show today's date and time
+eng_646.wav,english,speaker07,Show tomorrow's weather prediction
+eng_647.wav,english,speaker07,Activate voice assistant listening mode
+eng_648.wav,english,speaker07,Deactivate voice assistant listening mode
+eng_649.wav,english,speaker07,Enable silent notification mode now
+eng_650.wav,english,speaker07,Disable silent notification mode now
+ban_651.wav,bangla,speaker07,করিডরের লাইট এখন চালু করো
+ban_652.wav,bangla,speaker07,করিডরের লাইট এখন বন্ধ করো
+ban_653.wav,bangla,speaker07,বসার ঘরের জানালা খুলো
+ban_654.wav,bangla,speaker07,বসার ঘরের জানালা বন্ধ করো
+ban_655.wav,bangla,speaker07,স্পিকারের ভলিউম একটু বাড়াও
+ban_656.wav,bangla,speaker07,স্পিকারের ভলিউম একটু কমাও
+ban_657.wav,bangla,speaker07,শান্ত ইন্সট্রুমেন্টাল গান চালাও
+ban_658.wav,bangla,speaker07,ইন্সট্রুমেন্টাল গান এখন বন্ধ করো
+ban_659.wav,bangla,speaker07,এখন সঠিক সময় বলো
+ban_660.wav,bangla,speaker07,আজকের পুরো আবহাওয়ার পূর্বাভাস দেখাও
+ban_661.wav,bangla,speaker07,আগামীকাল সকাল ছয়টার অ্যালার্ম দাও
+ban_662.wav,bangla,speaker07,আগামীকাল সকালের অ্যালার্ম বাতিল করো
+ban_663.wav,bangla,speaker07,দ্রুত নোটস অ্যাপ খুলো
+ban_664.wav,bangla,speaker07,আমার সংরক্ষিত মিটিং নোট দেখাও
+ban_665.wav,bangla,speaker07,দশ মিনিটের টাইমার এখন চালু করো
+ban_666.wav,bangla,speaker07,চলমান টাইমার এখন বন্ধ করো
+ban_667.wav,bangla,speaker07,চলমান পডকাস্ট এখন থামাও
+ban_668.wav,bangla,speaker07,থামানো পডকাস্ট আবার চালাও
+ban_669.wav,bangla,speaker07,বর্তমান গানটি স্কিপ করো
+ban_670.wav,bangla,speaker07,আগের গানটি আবার চালাও
+ban_671.wav,bangla,speaker07,আমার সাপ্তাহিক সময়সূচি দেখাও
+ban_672.wav,bangla,speaker07,আগামীকালের মিটিংয়ের রিমাইন্ডার দাও
+ban_673.wav,bangla,speaker07,মিটিং রিমাইন্ডার এখন মুছে দাও
+ban_674.wav,bangla,speaker07,সব অপঠিত নোটিফিকেশন পড়ে শোনাও
+ban_675.wav,bangla,speaker07,ল্যাপটপের স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_676.wav,bangla,speaker07,ল্যাপটপের স্ক্রিন উজ্জ্বলতা কমাও
+ban_677.wav,bangla,speaker07,ডিফল্ট ওয়েব ব্রাউজার খুলো
+ban_678.wav,bangla,speaker07,ডিফল্ট ওয়েব ব্রাউজার বন্ধ করো
+ban_679.wav,bangla,speaker07,প্রযুক্তি সম্পর্কিত নতুন খবর খুঁজে দাও
+ban_680.wav,bangla,speaker07,লাইভ রেডিও স্টেশন চালাও
+ban_681.wav,bangla,speaker07,লাইভ রেডিও এখন বন্ধ করো
+ban_682.wav,bangla,speaker07,ল্যাপটপ স্ক্রিন লক করো
+ban_683.wav,bangla,speaker07,ল্যাপটপ স্ক্রিন আনলক করো
+ban_684.wav,bangla,speaker07,পেছনের ক্যামেরা অ্যাপ খুলো
+ban_685.wav,bangla,speaker07,দ্রুত পরিষ্কার ছবি তোলো
+ban_686.wav,bangla,speaker07,একটি ছোট ভিডিও রেকর্ড করো
+ban_687.wav,bangla,speaker07,ভিডিও রেকর্ড এখন বন্ধ করো
+ban_688.wav,bangla,speaker07,উন্নত সিস্টেম সেটিংস খুলো
+ban_689.wav,bangla,speaker07,উন্নত সিস্টেম সেটিংস বন্ধ করো
+ban_690.wav,bangla,speaker07,পুরো কম্পিউটার রিস্টার্ট করো
+ban_691.wav,bangla,speaker07,কম্পিউটার সম্পূর্ণ বন্ধ করো
+ban_692.wav,bangla,speaker07,বর্তমান সিস্টেম অবস্থা দেখাও
+ban_693.wav,bangla,speaker07,ক্যালকুলেটর অ্যাপ এখন চালু করো
+ban_694.wav,bangla,speaker07,ক্যালকুলেটর অ্যাপ এখন বন্ধ করো
+ban_695.wav,bangla,speaker07,আজকের তারিখ এবং সময় বলো
+ban_696.wav,bangla,speaker07,আগামীকালের আবহাওয়া পূর্বাভাস বলো
+ban_697.wav,bangla,speaker07,ভয়েস সহকারী শোনা চালু করো
+ban_698.wav,bangla,speaker07,ভয়েস সহকারী শোনা বন্ধ করো
+ban_699.wav,bangla,speaker07,সাইলেন্ট নোটিফিকেশন মোড চালু করো
+ban_700.wav,bangla,speaker07,সাইলেন্ট নোটিফিকেশন মোড বন্ধ করো
+eng_701.wav,english,speaker08,Turn on the office desk lamp
+eng_702.wav,english,speaker08,Turn off the office desk lamp
+eng_703.wav,english,speaker08,Open the study room window
+eng_704.wav,english,speaker08,Close the study room window
+eng_705.wav,english,speaker08,Increase system sound level slightly
+eng_706.wav,english,speaker08,Reduce system sound level slightly
+eng_707.wav,english,speaker08,Play calm evening background music
+eng_708.wav,english,speaker08,Stop the background music now
+eng_709.wav,english,speaker08,Tell the exact current system time
+eng_710.wav,english,speaker08,Show full weather forecast today
+eng_711.wav,english,speaker08,Set alarm for seven tomorrow morning
+eng_712.wav,english,speaker08,Cancel the alarm for tomorrow morning
+eng_713.wav,english,speaker08,Open the personal notes application
+eng_714.wav,english,speaker08,Show recently saved notes quickly
+eng_715.wav,english,speaker08,Start fifteen minute countdown timer
+eng_716.wav,english,speaker08,Stop the active countdown timer
+eng_717.wav,english,speaker08,Pause the currently playing video
+eng_718.wav,english,speaker08,Resume the paused video playback
+eng_719.wav,english,speaker08,Skip the currently playing song
+eng_720.wav,english,speaker08,Replay the last played song
+eng_721.wav,english,speaker08,Display my weekly meeting schedule
+eng_722.wav,english,speaker08,Add reminder for tomorrow office meeting
+eng_723.wav,english,speaker08,Delete reminder for tomorrow meeting
+eng_724.wav,english,speaker08,Read latest system notifications aloud
+eng_725.wav,english,speaker08,Increase laptop display brightness slightly
+eng_726.wav,english,speaker08,Reduce laptop display brightness slightly
+eng_727.wav,english,speaker08,Open the main internet browser
+eng_728.wav,english,speaker08,Close the internet browser window
+eng_729.wav,english,speaker08,Search global technology news online
+eng_730.wav,english,speaker08,Play the live online radio
+eng_731.wav,english,speaker08,Stop the live radio playback
+eng_732.wav,english,speaker08,Lock the laptop screen immediately
+eng_733.wav,english,speaker08,Unlock the laptop screen again
+eng_734.wav,english,speaker08,Open the front camera application
+eng_735.wav,english,speaker08,Capture a quick high quality photo
+eng_736.wav,english,speaker08,Start recording a short video
+eng_737.wav,english,speaker08,Stop recording the short video
+eng_738.wav,english,speaker08,Open advanced device settings panel
+eng_739.wav,english,speaker08,Close advanced device settings panel
+eng_740.wav,english,speaker08,Restart the operating system now
+eng_741.wav,english,speaker08,Shut down the computer safely
+eng_742.wav,english,speaker08,Display current system health information
+eng_743.wav,english,speaker08,Launch the calculator application quickly
+eng_744.wav,english,speaker08,Exit the calculator application now
+eng_745.wav,english,speaker08,Show today's calendar events
+eng_746.wav,english,speaker08,Show tomorrow weather forecast details
+eng_747.wav,english,speaker08,Activate voice assistant listening mode
+eng_748.wav,english,speaker08,Deactivate voice assistant listening mode
+eng_749.wav,english,speaker08,Enable quiet notification mode now
+eng_750.wav,english,speaker08,Disable quiet notification mode now
+ban_751.wav,bangla,speaker08,অফিস ডেস্ক ল্যাম্প চালু করো
+ban_752.wav,bangla,speaker08,অফিস ডেস্ক ল্যাম্প বন্ধ করো
+ban_753.wav,bangla,speaker08,পড়ার ঘরের জানালা খুলো
+ban_754.wav,bangla,speaker08,পড়ার ঘরের জানালা বন্ধ করো
+ban_755.wav,bangla,speaker08,সিস্টেম সাউন্ড একটু বাড়াও
+ban_756.wav,bangla,speaker08,সিস্টেম সাউন্ড একটু কমাও
+ban_757.wav,bangla,speaker08,সন্ধ্যার শান্ত মিউজিক চালাও
+ban_758.wav,bangla,speaker08,মিউজিক এখন বন্ধ করো
+ban_759.wav,bangla,speaker08,সঠিক বর্তমান সময় বলো
+ban_760.wav,bangla,speaker08,আজকের পূর্ণ আবহাওয়া দেখাও
+ban_761.wav,bangla,speaker08,আগামীকাল সাতটার অ্যালার্ম দাও
+ban_762.wav,bangla,speaker08,আগামীকাল সকালের অ্যালার্ম বাতিল করো
+ban_763.wav,bangla,speaker08,ব্যক্তিগত নোটস অ্যাপ খুলো
+ban_764.wav,bangla,speaker08,সাম্প্রতিক সংরক্ষিত নোট দেখাও
+ban_765.wav,bangla,speaker08,পনেরো মিনিট টাইমার চালু করো
+ban_766.wav,bangla,speaker08,সক্রিয় টাইমার এখন বন্ধ করো
+ban_767.wav,bangla,speaker08,চলমান ভিডিও এখন থামাও
+ban_768.wav,bangla,speaker08,থামানো ভিডিও আবার চালাও
+ban_769.wav,bangla,speaker08,চলমান গানটি স্কিপ করো
+ban_770.wav,bangla,speaker08,আগের গানটি আবার চালাও
+ban_771.wav,bangla,speaker08,আমার সাপ্তাহিক মিটিং সময়সূচি দেখাও
+ban_772.wav,bangla,speaker08,আগামীকালের অফিস মিটিং রিমাইন্ডার দাও
+ban_773.wav,bangla,speaker08,আগামীকালের মিটিং রিমাইন্ডার মুছে দাও
+ban_774.wav,bangla,speaker08,নতুন সিস্টেম নোটিফিকেশন পড়ে শোনাও
+ban_775.wav,bangla,speaker08,ল্যাপটপ স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_776.wav,bangla,speaker08,ল্যাপটপ স্ক্রিন উজ্জ্বলতা কমাও
+ban_777.wav,bangla,speaker08,প্রধান ইন্টারনেট ব্রাউজার খুলো
+ban_778.wav,bangla,speaker08,ব্রাউজার উইন্ডো বন্ধ করো
+ban_779.wav,bangla,speaker08,প্রযুক্তি সম্পর্কিত বিশ্ব সংবাদ খুঁজে দাও
+ban_780.wav,bangla,speaker08,লাইভ অনলাইন রেডিও চালাও
+ban_781.wav,bangla,speaker08,লাইভ রেডিও এখন বন্ধ করো
+ban_782.wav,bangla,speaker08,ল্যাপটপ স্ক্রিন এখন লক করো
+ban_783.wav,bangla,speaker08,ল্যাপটপ স্ক্রিন আনলক করো
+ban_784.wav,bangla,speaker08,সামনের ক্যামেরা অ্যাপ খুলো
+ban_785.wav,bangla,speaker08,দ্রুত পরিষ্কার ছবি তোলো
+ban_786.wav,bangla,speaker08,ছোট একটি ভিডিও রেকর্ড করো
+ban_787.wav,bangla,speaker08,ভিডিও রেকর্ড এখন বন্ধ করো
+ban_788.wav,bangla,speaker08,উন্নত ডিভাইস সেটিংস খুলো
+ban_789.wav,bangla,speaker08,উন্নত ডিভাইস সেটিংস বন্ধ করো
+ban_790.wav,bangla,speaker08,অপারেটিং সিস্টেম রিস্টার্ট করো
+ban_791.wav,bangla,speaker08,কম্পিউটার নিরাপদভাবে বন্ধ করো
+ban_792.wav,bangla,speaker08,বর্তমান সিস্টেম তথ্য দেখাও
+ban_793.wav,bangla,speaker08,ক্যালকুলেটর দ্রুত চালু করো
+ban_794.wav,bangla,speaker08,ক্যালকুলেটর এখন বন্ধ করো
+ban_795.wav,bangla,speaker08,আজকের ক্যালেন্ডার ইভেন্ট দেখাও
+ban_796.wav,bangla,speaker08,আগামীকালের আবহাওয়া বিস্তারিত বলো
+ban_797.wav,bangla,speaker08,ভয়েস সহকারী শোনা চালু করো
+ban_798.wav,bangla,speaker08,ভয়েস সহকারী শোনা বন্ধ করো
+ban_799.wav,bangla,speaker08,নীরব নোটিফিকেশন মোড চালু করো
+ban_800.wav,bangla,speaker08,নীরব নোটিফিকেশন মোড বন্ধ করো
+eng_801.wav,english,speaker09,Turn on the bedroom ceiling light
+eng_802.wav,english,speaker09,Turn off the bedroom ceiling light
+eng_803.wav,english,speaker09,Open the balcony glass door
+eng_804.wav,english,speaker09,Close the balcony glass door
+eng_805.wav,english,speaker09,Increase microphone recording sensitivity
+eng_806.wav,english,speaker09,Decrease microphone recording sensitivity
+eng_807.wav,english,speaker09,Play relaxing morning meditation music
+eng_808.wav,english,speaker09,Stop meditation music playback
+eng_809.wav,english,speaker09,Tell the system time now
+eng_810.wav,english,speaker09,Show detailed weather forecast today
+eng_811.wav,english,speaker09,Set alarm for tomorrow evening
+eng_812.wav,english,speaker09,Cancel tomorrow evening alarm
+eng_813.wav,english,speaker09,Open my digital notebook
+eng_814.wav,english,speaker09,Display saved notebook entries
+eng_815.wav,english,speaker09,Start twenty minute timer
+eng_816.wav,english,speaker09,Cancel the running timer
+eng_817.wav,english,speaker09,Pause the playing podcast now
+eng_818.wav,english,speaker09,Resume the paused podcast again
+eng_819.wav,english,speaker09,Skip the current music track
+eng_820.wav,english,speaker09,Repeat the previous music track
+eng_821.wav,english,speaker09,Display today's work schedule
+eng_822.wav,english,speaker09,Add reminder for project deadline
+eng_823.wav,english,speaker09,Remove reminder for project deadline
+eng_824.wav,english,speaker09,Read unread alerts aloud
+eng_825.wav,english,speaker09,Increase phone display brightness level
+eng_826.wav,english,speaker09,Decrease phone display brightness level
+eng_827.wav,english,speaker09,Launch the internet browser
+eng_828.wav,english,speaker09,Exit the internet browser
+eng_829.wav,english,speaker09,Search for local news updates
+eng_830.wav,english,speaker09,Play the internet radio
+eng_831.wav,english,speaker09,Stop the internet radio
+eng_832.wav,english,speaker09,Lock my computer screen
+eng_833.wav,english,speaker09,Unlock my computer screen
+eng_834.wav,english,speaker09,Open the back camera
+eng_835.wav,english,speaker09,Take a quick snapshot photo
+eng_836.wav,english,speaker09,Begin recording a short video
+eng_837.wav,english,speaker09,End the video recording
+eng_838.wav,english,speaker09,Open device control settings
+eng_839.wav,english,speaker09,Close device control settings
+eng_840.wav,english,speaker09,Restart the device now
+eng_841.wav,english,speaker09,Power off the device safely
+eng_842.wav,english,speaker09,Display device information now
+eng_843.wav,english,speaker09,Open calculator for quick math
+eng_844.wav,english,speaker09,Close calculator after calculation
+eng_845.wav,english,speaker09,Show today's full calendar
+eng_846.wav,english,speaker09,Show tomorrow weather prediction
+eng_847.wav,english,speaker09,Activate the voice assistant
+eng_848.wav,english,speaker09,Deactivate the voice assistant
+eng_849.wav,english,speaker09,Enable silent notifications now
+eng_850.wav,english,speaker09,Disable silent notifications now
+ban_851.wav,bangla,speaker09,বেডরুম সিলিং লাইট চালু করো
+ban_852.wav,bangla,speaker09,বেডরুম সিলিং লাইট বন্ধ করো
+ban_853.wav,bangla,speaker09,বারান্দার কাচের দরজা খুলো
+ban_854.wav,bangla,speaker09,বারান্দার কাচের দরজা বন্ধ করো
+ban_855.wav,bangla,speaker09,মাইক্রোফোন সংবেদনশীলতা বাড়াও
+ban_856.wav,bangla,speaker09,মাইক্রোফোন সংবেদনশীলতা কমাও
+ban_857.wav,bangla,speaker09,সকালের ধ্যানের গান চালাও
+ban_858.wav,bangla,speaker09,ধ্যানের গান বন্ধ করো
+ban_859.wav,bangla,speaker09,সিস্টেম সময় এখন বলো
+ban_860.wav,bangla,speaker09,আজকের বিস্তারিত আবহাওয়া দেখাও
+ban_861.wav,bangla,speaker09,আগামীকাল সন্ধ্যার অ্যালার্ম দাও
+ban_862.wav,bangla,speaker09,আগামীকাল সন্ধ্যার অ্যালার্ম বাতিল করো
+ban_863.wav,bangla,speaker09,আমার ডিজিটাল নোটবুক খুলো
+ban_864.wav,bangla,speaker09,সংরক্ষিত নোট দেখাও
+ban_865.wav,bangla,speaker09,বিশ মিনিট টাইমার চালু করো
+ban_866.wav,bangla,speaker09,চলমান টাইমার বাতিল করো
+ban_867.wav,bangla,speaker09,পডকাস্ট এখন থামাও
+ban_868.wav,bangla,speaker09,পডকাস্ট আবার চালাও
+ban_869.wav,bangla,speaker09,বর্তমান গান স্কিপ করো
+ban_870.wav,bangla,speaker09,আগের গান আবার চালাও
+ban_871.wav,bangla,speaker09,আজকের কাজের সময়সূচি দেখাও
+ban_872.wav,bangla,speaker09,প্রকল্প ডেডলাইন রিমাইন্ডার দাও
+ban_873.wav,bangla,speaker09,প্রকল্প রিমাইন্ডার মুছে দাও
+ban_874.wav,bangla,speaker09,অপঠিত এলার্ট পড়ে শোনাও
+ban_875.wav,bangla,speaker09,ফোন স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_876.wav,bangla,speaker09,ফোন স্ক্রিন উজ্জ্বলতা কমাও
+ban_877.wav,bangla,speaker09,ইন্টারনেট ব্রাউজার চালু করো
+ban_878.wav,bangla,speaker09,ইন্টারনেট ব্রাউজার বন্ধ করো
+ban_879.wav,bangla,speaker09,স্থানীয় সংবাদ খুঁজে দাও
+ban_880.wav,bangla,speaker09,ইন্টারনেট রেডিও চালাও
+ban_881.wav,bangla,speaker09,ইন্টারনেট রেডিও বন্ধ করো
+ban_882.wav,bangla,speaker09,কম্পিউটার স্ক্রিন লক করো
+ban_883.wav,bangla,speaker09,কম্পিউটার স্ক্রিন আনলক করো
+ban_884.wav,bangla,speaker09,পেছনের ক্যামেরা খুলো
+ban_885.wav,bangla,speaker09,দ্রুত একটি ছবি তোলো
+ban_886.wav,bangla,speaker09,ছোট ভিডিও রেকর্ড শুরু করো
+ban_887.wav,bangla,speaker09,ভিডিও রেকর্ড শেষ করো
+ban_888.wav,bangla,speaker09,ডিভাইস নিয়ন্ত্রণ সেটিংস খুলো
+ban_889.wav,bangla,speaker09,ডিভাইস নিয়ন্ত্রণ সেটিংস বন্ধ করো
+ban_890.wav,bangla,speaker09,ডিভাইস রিস্টার্ট করো
+ban_891.wav,bangla,speaker09,ডিভাইস নিরাপদে বন্ধ করো
+ban_892.wav,bangla,speaker09,ডিভাইস তথ্য দেখাও
+ban_893.wav,bangla,speaker09,দ্রুত হিসাবের জন্য ক্যালকুলেটর খুলো
+ban_894.wav,bangla,speaker09,হিসাব শেষে ক্যালকুলেটর বন্ধ করো
+ban_895.wav,bangla,speaker09,আজকের পুরো ক্যালেন্ডার দেখাও
+ban_896.wav,bangla,speaker09,আগামীকালের আবহাওয়া বলো
+ban_897.wav,bangla,speaker09,ভয়েস সহকারী সক্রিয় করো
+ban_898.wav,bangla,speaker09,ভয়েস সহকারী নিষ্ক্রিয় করো
+ban_899.wav,bangla,speaker09,নীরব নোটিফিকেশন চালু করো
+ban_900.wav,bangla,speaker09,নীরব নোটিফিকেশন বন্ধ করো
+eng_901.wav,english,speaker10,Turn on the hallway ceiling light
+eng_902.wav,english,speaker10,Turn off the hallway ceiling light
+eng_903.wav,english,speaker10,Open the kitchen side window
+eng_904.wav,english,speaker10,Close the kitchen side window
+eng_905.wav,english,speaker10,Increase the system audio level
+eng_906.wav,english,speaker10,Decrease the system audio level
+eng_907.wav,english,speaker10,Play relaxing ambient background music
+eng_908.wav,english,speaker10,Stop the ambient background music
+eng_909.wav,english,speaker10,Tell the exact current time
+eng_910.wav,english,speaker10,Show today's weather report
+eng_911.wav,english,speaker10,Set alarm for tomorrow afternoon
+eng_912.wav,english,speaker10,Cancel tomorrow afternoon alarm
+eng_913.wav,english,speaker10,Open personal task manager
+eng_914.wav,english,speaker10,Display pending tasks list
+eng_915.wav,english,speaker10,Start a thirty minute timer
+eng_916.wav,english,speaker10,Stop the thirty minute timer
+eng_917.wav,english,speaker10,Pause the playing documentary
+eng_918.wav,english,speaker10,Resume the paused documentary
+eng_919.wav,english,speaker10,Skip this music track
+eng_920.wav,english,speaker10,Replay the previous music track
+eng_921.wav,english,speaker10,Show monthly work schedule
+eng_922.wav,english,speaker10,Add reminder for weekly meeting
+eng_923.wav,english,speaker10,Delete weekly meeting reminder
+eng_924.wav,english,speaker10,Read latest alerts aloud
+eng_925.wav,english,speaker10,Increase display brightness level
+eng_926.wav,english,speaker10,Reduce display brightness level
+eng_927.wav,english,speaker10,Open the default browser
+eng_928.wav,english,speaker10,Close the default browser
+eng_929.wav,english,speaker10,Search global news headlines
+eng_930.wav,english,speaker10,Play streaming internet radio
+eng_931.wav,english,speaker10,Stop streaming internet radio
+eng_932.wav,english,speaker10,Lock the desktop screen
+eng_933.wav,english,speaker10,Unlock the desktop screen
+eng_934.wav,english,speaker10,Open the camera quickly
+eng_935.wav,english,speaker10,Capture a quick photo
+eng_936.wav,english,speaker10,Start recording short video
+eng_937.wav,english,speaker10,Stop recording short video
+eng_938.wav,english,speaker10,Open system control settings
+eng_939.wav,english,speaker10,Close system control settings
+eng_940.wav,english,speaker10,Restart the system now
+eng_941.wav,english,speaker10,Shut down the system safely
+eng_942.wav,english,speaker10,Display hardware information now
+eng_943.wav,english,speaker10,Launch calculator application
+eng_944.wav,english,speaker10,Exit calculator application
+eng_945.wav,english,speaker10,Show today's calendar schedule
+eng_946.wav,english,speaker10,Show tomorrow weather report
+eng_947.wav,english,speaker10,Activate assistant listening
+eng_948.wav,english,speaker10,Deactivate assistant listening
+eng_949.wav,english,speaker10,Enable quiet notification mode
+eng_950.wav,english,speaker10,Disable quiet notification mode
+ban_951.wav,bangla,speaker10,করিডরের সিলিং লাইট চালু করো
+ban_952.wav,bangla,speaker10,করিডরের সিলিং লাইট বন্ধ করো
+ban_953.wav,bangla,speaker10,রান্নাঘরের পাশের জানালা খুলো
+ban_954.wav,bangla,speaker10,রান্নাঘরের পাশের জানালা বন্ধ করো
+ban_955.wav,bangla,speaker10,সিস্টেম অডিও বাড়াও
+ban_956.wav,bangla,speaker10,সিস্টেম অডিও কমাও
+ban_957.wav,bangla,speaker10,শান্ত পরিবেশ মিউজিক চালাও
+ban_958.wav,bangla,speaker10,পরিবেশ মিউজিক বন্ধ করো
+ban_959.wav,bangla,speaker10,সঠিক বর্তমান সময় বলো
+ban_960.wav,bangla,speaker10,আজকের আবহাওয়ার রিপোর্ট দেখাও
+ban_961.wav,bangla,speaker10,আগামীকাল বিকালের অ্যালার্ম দাও
+ban_962.wav,bangla,speaker10,আগামীকাল বিকালের অ্যালার্ম বাতিল করো
+ban_963.wav,bangla,speaker10,ব্যক্তিগত টাস্ক ম্যানেজার খুলো
+ban_964.wav,bangla,speaker10,অসমাপ্ত কাজের তালিকা দেখাও
+ban_965.wav,bangla,speaker10,ত্রিশ মিনিট টাইমার চালু করো
+ban_966.wav,bangla,speaker10,ত্রিশ মিনিট টাইমার বন্ধ করো
+ban_967.wav,bangla,speaker10,ডকুমেন্টারি এখন থামাও
+ban_968.wav,bangla,speaker10,ডকুমেন্টারি আবার চালাও
+ban_969.wav,bangla,speaker10,এই গানটি স্কিপ করো
+ban_970.wav,bangla,speaker10,আগের গানটি আবার চালাও
+ban_971.wav,bangla,speaker10,মাসিক কাজের সময়সূচি দেখাও
+ban_972.wav,bangla,speaker10,সাপ্তাহিক মিটিং রিমাইন্ডার দাও
+ban_973.wav,bangla,speaker10,সাপ্তাহিক মিটিং রিমাইন্ডার মুছে দাও
+ban_974.wav,bangla,speaker10,সর্বশেষ এলার্ট পড়ে শোনাও
+ban_975.wav,bangla,speaker10,ডিসপ্লে উজ্জ্বলতা বাড়াও
+ban_976.wav,bangla,speaker10,ডিসপ্লে উজ্জ্বলতা কমাও
+ban_977.wav,bangla,speaker10,ডিফল্ট ব্রাউজার খুলো
+ban_978.wav,bangla,speaker10,ডিফল্ট ব্রাউজার বন্ধ করো
+ban_979.wav,bangla,speaker10,বিশ্ব সংবাদ শিরোনাম খুঁজে দাও
+ban_980.wav,bangla,speaker10,স্ট্রিমিং রেডিও চালাও
+ban_981.wav,bangla,speaker10,স্ট্রিমিং রেডিও বন্ধ করো
+ban_982.wav,bangla,speaker10,ডেস্কটপ স্ক্রিন লক করো
+ban_983.wav,bangla,speaker10,ডেস্কটপ স্ক্রিন আনলক করো
+ban_984.wav,bangla,speaker10,ক্যামেরা দ্রুত খুলো
+ban_985.wav,bangla,speaker10,দ্রুত একটি ছবি তোলো
+ban_986.wav,bangla,speaker10,ছোট ভিডিও রেকর্ড শুরু করো
+ban_987.wav,bangla,speaker10,ছোট ভিডিও রেকর্ড বন্ধ করো
+ban_988.wav,bangla,speaker10,সিস্টেম কন্ট্রোল সেটিংস খুলো
+ban_989.wav,bangla,speaker10,সিস্টেম কন্ট্রোল সেটিংস বন্ধ করো
+ban_990.wav,bangla,speaker10,সিস্টেম এখন রিস্টার্ট করো
+ban_991.wav,bangla,speaker10,সিস্টেম নিরাপদে বন্ধ করো
+ban_992.wav,bangla,speaker10,হার্ডওয়্যার তথ্য দেখাও
+ban_993.wav,bangla,speaker10,ক্যালকুলেটর অ্যাপ চালু করো
+ban_994.wav,bangla,speaker10,ক্যালকুলেটর অ্যাপ বন্ধ করো
+ban_995.wav,bangla,speaker10,আজকের ক্যালেন্ডার সময়সূচি দেখাও
+ban_996.wav,bangla,speaker10,আগামীকালের আবহাওয়ার রিপোর্ট বলো
+ban_997.wav,bangla,speaker10,সহকারী শোনা চালু করো
+ban_998.wav,bangla,speaker10,সহকারী শোনা বন্ধ করো
+ban_999.wav,bangla,speaker10,নীরব নোটিফিকেশন মোড চালু করো
+ban_1000.wav,bangla,speaker10,নীরব নোটিফিকেশন মোড বন্ধ করো

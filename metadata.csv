@@ -199,56 +199,56 @@ ban_197.wav,bangla,speaker02,সহকারী চালু করো
 ban_198.wav,bangla,speaker02,সহকারী বন্ধ করো
 ban_199.wav,bangla,speaker02,সাইলেন্ট মোড চালু করো
 ban_200.wav,bangla,speaker02,সাইলেন্ট মোড বন্ধ করো
-eng_201.wav,english,speaker03,Turn on the kitchen light
-eng_202.wav,english,speaker03,Turn off the kitchen light
-eng_203.wav,english,speaker03,Open the main door
-eng_204.wav,english,speaker03,Close the main door
-eng_205.wav,english,speaker03,Increase speaker volume
-eng_206.wav,english,speaker03,Decrease speaker volume
-eng_207.wav,english,speaker03,Play relaxing music now
-eng_208.wav,english,speaker03,Stop the relaxing music
-eng_209.wav,english,speaker03,Tell me current time
-eng_210.wav,english,speaker03,Tell me today's weather
-eng_211.wav,english,speaker03,Set alarm for tomorrow
-eng_212.wav,english,speaker03,Cancel my morning alarm
-eng_213.wav,english,speaker03,Open the email application
-eng_214.wav,english,speaker03,Check my new messages
-eng_215.wav,english,speaker03,Start a five minute timer
-eng_216.wav,english,speaker03,Stop the running timer
-eng_217.wav,english,speaker03,Pause the playing video
-eng_218.wav,english,speaker03,Resume the paused video
-eng_219.wav,english,speaker03,Play the next song
-eng_220.wav,english,speaker03,Play the previous song
-eng_221.wav,english,speaker03,Show my daily schedule
-eng_222.wav,english,speaker03,Add reminder for meeting
-eng_223.wav,english,speaker03,Delete the meeting reminder
-eng_224.wav,english,speaker03,Read all notifications aloud
-eng_225.wav,english,speaker03,Increase screen brightness level
-eng_226.wav,english,speaker03,Decrease screen brightness level
-eng_227.wav,english,speaker03,Open the internet browser
-eng_228.wav,english,speaker03,Close the internet browser
-eng_229.wav,english,speaker03,Search the latest news
-eng_230.wav,english,speaker03,Play online radio
-eng_231.wav,english,speaker03,Stop playing radio now
-eng_232.wav,english,speaker03,Lock the computer system
-eng_233.wav,english,speaker03,Unlock the computer system
-eng_234.wav,english,speaker03,Open the camera application
-eng_235.wav,english,speaker03,Take a quick photo
-eng_236.wav,english,speaker03,Start recording video now
-eng_237.wav,english,speaker03,Stop recording video now
-eng_238.wav,english,speaker03,Open system configuration settings
-eng_239.wav,english,speaker03,Close system configuration settings
-eng_240.wav,english,speaker03,Restart the computer system
-eng_241.wav,english,speaker03,Shut down the computer system
-eng_242.wav,english,speaker03,Check system health status
-eng_243.wav,english,speaker03,Open the calculator app
-eng_244.wav,english,speaker03,Close the calculator app
-eng_245.wav,english,speaker03,Show today's full date
-eng_246.wav,english,speaker03,Show tomorrow's weather forecast
-eng_247.wav,english,speaker03,Start voice control mode
-eng_248.wav,english,speaker03,Stop voice control mode
-eng_249.wav,english,speaker03,Enable silent notification mode
-eng_250.wav,english,speaker03,Disable silent notification mode
+eng_201.wav,english,speaker03,Turn on the fan
+eng_202.wav,english,speaker03,Turn off the fan
+eng_203.wav,english,speaker03,Increase fan speed
+eng_204.wav,english,speaker03,Decrease fan speed
+eng_205.wav,english,speaker03,Open the window
+eng_206.wav,english,speaker03,Close the window
+eng_207.wav,english,speaker03,Turn on the heater
+eng_208.wav,english,speaker03,Turn off the heater
+eng_209.wav,english,speaker03,Turn on the television
+eng_210.wav,english,speaker03,Turn off the television
+eng_211.wav,english,speaker03,Play relaxing music
+eng_212.wav,english,speaker03,Play some jazz music
+eng_213.wav,english,speaker03,Stop the playlist
+eng_214.wav,english,speaker03,Skip this song
+eng_215.wav,english,speaker03,Repeat this song
+eng_216.wav,english,speaker03,Shuffle the playlist
+eng_217.wav,english,speaker03,Play next track
+eng_218.wav,english,speaker03,Play previous track
+eng_219.wav,english,speaker03,Mute the sound
+eng_220.wav,english,speaker03,Unmute the sound
+eng_221.wav,english,speaker03,Show my calendar
+eng_222.wav,english,speaker03,Add event tomorrow
+eng_223.wav,english,speaker03,Remove the event
+eng_224.wav,english,speaker03,Update the meeting
+eng_225.wav,english,speaker03,Set reminder for tonight
+eng_226.wav,english,speaker03,Cancel tomorrow reminder
+eng_227.wav,english,speaker03,Check upcoming meetings
+eng_228.wav,english,speaker03,Show today's tasks
+eng_229.wav,english,speaker03,Clear all notifications
+eng_230.wav,english,speaker03,Show missed alerts
+eng_231.wav,english,speaker03,Open the file manager
+eng_232.wav,english,speaker03,Close the file manager
+eng_233.wav,english,speaker03,Search my documents
+eng_234.wav,english,speaker03,Open downloads folder
+eng_235.wav,english,speaker03,Delete temporary files
+eng_236.wav,english,speaker03,Show system storage
+eng_237.wav,english,speaker03,Check battery level
+eng_238.wav,english,speaker03,Show network status
+eng_239.wav,english,speaker03,Connect to WiFi
+eng_240.wav,english,speaker03,Disconnect from WiFi
+eng_241.wav,english,speaker03,Start screen recording
+eng_242.wav,english,speaker03,Stop screen recording
+eng_243.wav,english,speaker03,Capture screenshot now
+eng_244.wav,english,speaker03,Save the screenshot
+eng_245.wav,english,speaker03,Share the screenshot
+eng_246.wav,english,speaker03,Open image gallery
+eng_247.wav,english,speaker03,Delete the image
+eng_248.wav,english,speaker03,Upload this photo
+eng_249.wav,english,speaker03,Download the file
+eng_250.wav,english,speaker03,Install the update
 ban_251.wav,bangla,speaker03,রান্নাঘরের লাইট চালু করো
 ban_252.wav,bangla,speaker03,রান্নাঘরের লাইট বন্ধ করো
 ban_253.wav,bangla,speaker03,প্রধান দরজা খুলো
@@ -299,56 +299,56 @@ ban_297.wav,bangla,speaker03,ভয়েস নিয়ন্ত্রণ চ�
 ban_298.wav,bangla,speaker03,ভয়েস নিয়ন্ত্রণ বন্ধ করো
 ban_299.wav,bangla,speaker03,সাইলেন্ট মোড চালু করো
 ban_300.wav,bangla,speaker03,সাইলেন্ট মোড বন্ধ করো
-eng_301.wav,english,speaker04,Turn on bedroom light
-eng_302.wav,english,speaker04,Turn off bedroom light
-eng_303.wav,english,speaker04,Open the back window
-eng_304.wav,english,speaker04,Close the back window
-eng_305.wav,english,speaker04,Increase microphone sensitivity
-eng_306.wav,english,speaker04,Decrease microphone sensitivity
-eng_307.wav,english,speaker04,Play soft background music
-eng_308.wav,english,speaker04,Stop background music
-eng_309.wav,english,speaker04,Tell me current temperature
-eng_310.wav,english,speaker04,Show weather forecast today
-eng_311.wav,english,speaker04,Set reminder for dinner
-eng_312.wav,english,speaker04,Cancel dinner reminder
-eng_313.wav,english,speaker04,Open my task manager
-eng_314.wav,english,speaker04,Show pending tasks today
-eng_315.wav,english,speaker04,Start countdown timer now
-eng_316.wav,english,speaker04,Cancel the countdown timer
-eng_317.wav,english,speaker04,Pause this movie now
-eng_318.wav,english,speaker04,Resume the paused movie
-eng_319.wav,english,speaker04,Skip this music track
-eng_320.wav,english,speaker04,Repeat this music track
-eng_321.wav,english,speaker04,Display weekly schedule
-eng_322.wav,english,speaker04,Add reminder for call
-eng_323.wav,english,speaker04,Remove reminder for call
-eng_324.wav,english,speaker04,Read latest notifications
-eng_325.wav,english,speaker04,Increase phone brightness
-eng_326.wav,english,speaker04,Reduce phone brightness
-eng_327.wav,english,speaker04,Launch the web browser
-eng_328.wav,english,speaker04,Exit the web browser
-eng_329.wav,english,speaker04,Search for world news
-eng_330.wav,english,speaker04,Start the radio stream
-eng_331.wav,english,speaker04,Stop the radio stream
-eng_332.wav,english,speaker04,Lock my device now
-eng_333.wav,english,speaker04,Unlock my device now
-eng_334.wav,english,speaker04,Open front camera
-eng_335.wav,english,speaker04,Capture a clear photo
-eng_336.wav,english,speaker04,Begin recording video
-eng_337.wav,english,speaker04,End recording video
-eng_338.wav,english,speaker04,Access device settings
-eng_339.wav,english,speaker04,Exit device settings
-eng_340.wav,english,speaker04,Restart this device
-eng_341.wav,english,speaker04,Power off this device
-eng_342.wav,english,speaker04,Display system status
-eng_343.wav,english,speaker04,Open calculator quickly
-eng_344.wav,english,speaker04,Close calculator quickly
-eng_345.wav,english,speaker04,Display today's calendar
-eng_346.wav,english,speaker04,Show tomorrow's forecast
-eng_347.wav,english,speaker04,Start assistant listening
-eng_348.wav,english,speaker04,Stop assistant listening
-eng_349.wav,english,speaker04,Enable quiet notification
-eng_350.wav,english,speaker04,Disable quiet notification
+eng_301.wav,english,speaker04,Open system monitor
+eng_302.wav,english,speaker04,Close system monitor
+eng_303.wav,english,speaker04,Show CPU usage
+eng_304.wav,english,speaker04,Show memory usage
+eng_305.wav,english,speaker04,Check disk space
+eng_306.wav,english,speaker04,Run system diagnostics
+eng_307.wav,english,speaker04,Scan for viruses
+eng_308.wav,english,speaker04,Update system software
+eng_309.wav,english,speaker04,Enable airplane mode
+eng_310.wav,english,speaker04,Disable airplane mode
+eng_311.wav,english,speaker04,Start navigation mode
+eng_312.wav,english,speaker04,Stop navigation mode
+eng_313.wav,english,speaker04,Show nearby restaurants
+eng_314.wav,english,speaker04,Find nearest hospital
+eng_315.wav,english,speaker04,Find nearest gas station
+eng_316.wav,english,speaker04,Show nearest pharmacy
+eng_317.wav,english,speaker04,Find nearby cafes
+eng_318.wav,english,speaker04,Show nearby parks
+eng_319.wav,english,speaker04,Search nearby hotels
+eng_320.wav,english,speaker04,Show nearby stores
+eng_321.wav,english,speaker04,Tell me a joke
+eng_322.wav,english,speaker04,Tell me a story
+eng_323.wav,english,speaker04,Read today's news
+eng_324.wav,english,speaker04,Tell sports news
+eng_325.wav,english,speaker04,Tell technology news
+eng_326.wav,english,speaker04,What's the temperature today
+eng_327.wav,english,speaker04,Will it rain today
+eng_328.wav,english,speaker04,Is it sunny outside
+eng_329.wav,english,speaker04,Show weekly forecast
+eng_330.wav,english,speaker04,Show monthly forecast
+eng_331.wav,english,speaker04,Start the assistant
+eng_332.wav,english,speaker04,Stop the assistant
+eng_333.wav,english,speaker04,Wake up assistant
+eng_334.wav,english,speaker04,Go to sleep assistant
+eng_335.wav,english,speaker04,Activate voice mode
+eng_336.wav,english,speaker04,Deactivate voice mode
+eng_337.wav,english,speaker04,Start listening mode
+eng_338.wav,english,speaker04,Stop listening mode
+eng_339.wav,english,speaker04,Enable voice control
+eng_340.wav,english,speaker04,Disable voice control
+eng_341.wav,english,speaker04,Turn on dark mode
+eng_342.wav,english,speaker04,Turn off dark mode
+eng_343.wav,english,speaker04,Enable night mode
+eng_344.wav,english,speaker04,Disable night mode
+eng_345.wav,english,speaker04,Increase system brightness
+eng_346.wav,english,speaker04,Decrease system brightness
+eng_347.wav,english,speaker04,Change system language
+eng_348.wav,english,speaker04,Show language settings
+eng_349.wav,english,speaker04,Open accessibility settings
+eng_350.wav,english,speaker04,Close accessibility settings
 ban_351.wav,bangla,speaker04,বেডরুমের লাইট চালু করো
 ban_352.wav,bangla,speaker04,বেডরুমের লাইট বন্ধ করো
 ban_353.wav,bangla,speaker04,পেছনের জানালা খুলো

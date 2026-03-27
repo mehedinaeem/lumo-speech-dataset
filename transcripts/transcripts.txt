@@ -48,3 +48,953 @@ eng_047.wav|Stop the timer
 eng_048.wav|Add a note
 eng_049.wav|Read my notes
 eng_050.wav|Thank you Lumo
+ban_051.wav|হ্যালো লুমো
+ban_052.wav|হাই লুমো
+ban_053.wav|তুমি কেমন আছো
+ban_054.wav|এখন কয়টা বাজে
+ban_055.wav|আজকের তারিখ কত
+ban_056.wav|আজকের আবহাওয়া কেমন
+ban_057.wav|ব্রাউজার খুলে দাও
+ban_058.wav|গুগল খুলে দাও
+ban_059.wav|গুগলে সার্চ করো
+ban_060.wav|মিউজিক চালাও
+ban_061.wav|মিউজিক বন্ধ করো
+ban_062.wav|ভলিউম বাড়াও
+ban_063.wav|ভলিউম কমাও
+ban_064.wav|সাউন্ড বন্ধ করো
+ban_065.wav|সাউন্ড চালু করো
+ban_066.wav|লাইট চালু করো
+ban_067.wav|লাইট বন্ধ করো
+ban_068.wav|ক্যালকুলেটর খুলে দাও
+ban_069.wav|ক্যালকুলেটর বন্ধ করো
+ban_070.wav|একটা রিমাইন্ডার সেট করো
+ban_071.wav|একটা অ্যালার্ম সেট করো
+ban_072.wav|একটা কৌতুক বলো
+ban_073.wav|মজার কিছু বলো
+ban_074.wav|খবর পড়ে শোনাও
+ban_075.wav|কৃত্রিম বুদ্ধিমত্তা কি
+ban_076.wav|মেশিন লার্নিং ব্যাখ্যা করো
+ban_077.wav|বাংলাদেশের রাষ্ট্রপতি কে
+ban_078.wav|বাংলাদেশ কোথায়
+ban_079.wav|বাংলাদেশের রাজধানী কি
+ban_080.wav|দুই আর দুই কত
+ban_081.wav|ডলারকে টাকায় রূপান্তর করো
+ban_082.wav|ইউটিউব খুলে দাও
+ban_083.wav|পাইথন টিউটোরিয়াল সার্চ করো
+ban_084.wav|আজকের খবর দেখাও
+ban_085.wav|রেকর্ডিং শুরু করো
+ban_086.wav|রেকর্ডিং বন্ধ করো
+ban_087.wav|সেটিংস খুলে দাও
+ban_088.wav|অ্যাপ্লিকেশন বন্ধ করো
+ban_089.wav|সিস্টেম রিস্টার্ট করো
+ban_090.wav|সিস্টেম বন্ধ করো
+ban_091.wav|ইন্টারনেট সংযোগ চেক করো
+ban_092.wav|ব্যাটারির অবস্থা দেখাও
+ban_093.wav|আমার অবস্থান কোথায়
+ban_094.wav|ক্যামেরা খুলে দাও
+ban_095.wav|একটা ছবি তোলো
+ban_096.wav|টাইমার চালু করো
+ban_097.wav|টাইমার বন্ধ করো
+ban_098.wav|একটা নোট যোগ করো
+ban_099.wav|আমার নোট পড়ে শোনাও
+ban_100.wav|ধন্যবাদ লুমো
+eng_101.wav|Turn on the light
+eng_102.wav|Turn off the light
+eng_103.wav|Open the door
+eng_104.wav|Close the door
+eng_105.wav|Increase the volume
+eng_106.wav|Decrease the volume
+eng_107.wav|Play some music
+eng_108.wav|Stop the music
+eng_109.wav|What time is it
+eng_110.wav|Tell me the weather
+eng_111.wav|Set an alarm
+eng_112.wav|Cancel the alarm
+eng_113.wav|Open my email
+eng_114.wav|Check new messages
+eng_115.wav|Start the timer
+eng_116.wav|Stop the timer
+eng_117.wav|Pause the video
+eng_118.wav|Resume the video
+eng_119.wav|Next song please
+eng_120.wav|Previous song please
+eng_121.wav|Show my schedule
+eng_122.wav|Add new reminder
+eng_123.wav|Delete the reminder
+eng_124.wav|Read my notifications
+eng_125.wav|Increase screen brightness
+eng_126.wav|Decrease screen brightness
+eng_127.wav|Open the browser
+eng_128.wav|Close the browser
+eng_129.wav|Search for news
+eng_130.wav|Play the radio
+eng_131.wav|Stop the radio
+eng_132.wav|Lock the system
+eng_133.wav|Unlock the system
+eng_134.wav|Open the camera
+eng_135.wav|Take a photo
+eng_136.wav|Start recording video
+eng_137.wav|Stop recording video
+eng_138.wav|Open system settings
+eng_139.wav|Close system settings
+eng_140.wav|Restart the system
+eng_141.wav|Shut down the system
+eng_142.wav|Check system status
+eng_143.wav|Open the calculator
+eng_144.wav|Close the calculator
+eng_145.wav|Show today's date
+eng_146.wav|Show tomorrow's weather
+eng_147.wav|Start voice assistant
+eng_148.wav|Stop voice assistant
+eng_149.wav|Enable silent mode
+eng_150.wav|Disable silent mode
+ban_151.wav|লাইট চালু করো
+ban_152.wav|লাইট বন্ধ করো
+ban_153.wav|দরজা খুলো
+ban_154.wav|দরজা বন্ধ করো
+ban_155.wav|ভলিউম বাড়াও
+ban_156.wav|ভলিউম কমাও
+ban_157.wav|গান চালাও
+ban_158.wav|গান বন্ধ করো
+ban_159.wav|সময় কত বলো
+ban_160.wav|আজকের আবহাওয়া বলো
+ban_161.wav|অ্যালার্ম সেট করো
+ban_162.wav|অ্যালার্ম বন্ধ করো
+ban_163.wav|আমার ইমেইল খুলো
+ban_164.wav|নতুন মেসেজ দেখাও
+ban_165.wav|টাইমার শুরু করো
+ban_166.wav|টাইমার বন্ধ করো
+ban_167.wav|ভিডিও থামাও
+ban_168.wav|ভিডিও চালাও
+ban_169.wav|পরের গান চালাও
+ban_170.wav|আগের গান চালাও
+ban_171.wav|আমার সময়সূচি দেখাও
+ban_172.wav|নতুন রিমাইন্ডার দাও
+ban_173.wav|রিমাইন্ডার মুছে দাও
+ban_174.wav|নোটিফিকেশন পড়ে শোনাও
+ban_175.wav|স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_176.wav|স্ক্রিন উজ্জ্বলতা কমাও
+ban_177.wav|ব্রাউজার খুলো
+ban_178.wav|ব্রাউজার বন্ধ করো
+ban_179.wav|খবর খুঁজে দাও
+ban_180.wav|রেডিও চালাও
+ban_181.wav|রেডিও বন্ধ করো
+ban_182.wav|সিস্টেম লক করো
+ban_183.wav|সিস্টেম আনলক করো
+ban_184.wav|ক্যামেরা খুলো
+ban_185.wav|ছবি তোলো
+ban_186.wav|ভিডিও রেকর্ড শুরু করো
+ban_187.wav|ভিডিও রেকর্ড বন্ধ করো
+ban_188.wav|সেটিংস খুলো
+ban_189.wav|সেটিংস বন্ধ করো
+ban_190.wav|সিস্টেম রিস্টার্ট করো
+ban_191.wav|সিস্টেম বন্ধ করো
+ban_192.wav|সিস্টেম অবস্থা দেখাও
+ban_193.wav|ক্যালকুলেটর খুলো
+ban_194.wav|ক্যালকুলেটর বন্ধ করো
+ban_195.wav|আজকের তারিখ বলো
+ban_196.wav|আগামীকালের আবহাওয়া বলো
+ban_197.wav|সহকারী চালু করো
+ban_198.wav|সহকারী বন্ধ করো
+ban_199.wav|সাইলেন্ট মোড চালু করো
+ban_200.wav|সাইলেন্ট মোড বন্ধ করো
+eng_201.wav|Turn on the fan
+eng_202.wav|Turn off the fan
+eng_203.wav|Increase fan speed
+eng_204.wav|Decrease fan speed
+eng_205.wav|Open the window
+eng_206.wav|Close the window
+eng_207.wav|Turn on the heater
+eng_208.wav|Turn off the heater
+eng_209.wav|Turn on the television
+eng_210.wav|Turn off the television
+eng_211.wav|Play relaxing music
+eng_212.wav|Play some jazz music
+eng_213.wav|Stop the playlist
+eng_214.wav|Skip this song
+eng_215.wav|Repeat this song
+eng_216.wav|Shuffle the playlist
+eng_217.wav|Play next track
+eng_218.wav|Play previous track
+eng_219.wav|Mute the sound
+eng_220.wav|Unmute the sound
+eng_221.wav|Show my calendar
+eng_222.wav|Add event tomorrow
+eng_223.wav|Remove the event
+eng_224.wav|Update the meeting
+eng_225.wav|Set reminder for tonight
+eng_226.wav|Cancel tomorrow reminder
+eng_227.wav|Check upcoming meetings
+eng_228.wav|Show today's tasks
+eng_229.wav|Clear all notifications
+eng_230.wav|Show missed alerts
+eng_231.wav|Open the file manager
+eng_232.wav|Close the file manager
+eng_233.wav|Search my documents
+eng_234.wav|Open downloads folder
+eng_235.wav|Delete temporary files
+eng_236.wav|Show system storage
+eng_237.wav|Check battery level
+eng_238.wav|Show network status
+eng_239.wav|Connect to WiFi
+eng_240.wav|Disconnect from WiFi
+eng_241.wav|Start screen recording
+eng_242.wav|Stop screen recording
+eng_243.wav|Capture screenshot now
+eng_244.wav|Save the screenshot
+eng_245.wav|Share the screenshot
+eng_246.wav|Open image gallery
+eng_247.wav|Delete the image
+eng_248.wav|Upload this photo
+eng_249.wav|Download the file
+eng_250.wav|Install the update
+ban_251.wav|ফ্যান চালু করো
+ban_252.wav|ফ্যান বন্ধ করো
+ban_253.wav|ফ্যানের গতি বাড়াও
+ban_254.wav|ফ্যানের গতি কমাও
+ban_255.wav|জানালা খুলো
+ban_256.wav|জানালা বন্ধ করো
+ban_257.wav|হিটার চালু করো
+ban_258.wav|হিটার বন্ধ করো
+ban_259.wav|টিভি চালু করো
+ban_260.wav|টিভি বন্ধ করো
+ban_261.wav|গান চালাও
+ban_262.wav|গান থামাও
+ban_263.wav|পরের গান চালাও
+ban_264.wav|আগের গান চালাও
+ban_265.wav|মিউজিক বন্ধ করো
+ban_266.wav|মিউজিক চালু করো
+ban_267.wav|প্লেলিস্ট চালাও
+ban_268.wav|প্লেলিস্ট বন্ধ করো
+ban_269.wav|সাউন্ড বন্ধ করো
+ban_270.wav|সাউন্ড চালু করো
+ban_271.wav|ক্যালেন্ডার দেখাও
+ban_272.wav|আগামীকালের ইভেন্ট যোগ করো
+ban_273.wav|ইভেন্ট মুছে দাও
+ban_274.wav|মিটিং আপডেট করো
+ban_275.wav|আজকের রিমাইন্ডার দাও
+ban_276.wav|রিমাইন্ডার বাতিল করো
+ban_277.wav|আসন্ন মিটিং দেখাও
+ban_278.wav|আজকের কাজ দেখাও
+ban_279.wav|নোটিফিকেশন পরিষ্কার করো
+ban_280.wav|নতুন এলার্ট দেখাও
+ban_281.wav|ফাইল ম্যানেজার খুলো
+ban_282.wav|ফাইল ম্যানেজার বন্ধ করো
+ban_283.wav|ডকুমেন্ট খুঁজে দাও
+ban_284.wav|ডাউনলোড ফোল্ডার খুলো
+ban_285.wav|অস্থায়ী ফাইল মুছে দাও
+ban_286.wav|স্টোরেজ দেখাও
+ban_287.wav|ব্যাটারি অবস্থা দেখাও
+ban_288.wav|নেটওয়ার্ক অবস্থা দেখাও
+ban_289.wav|ওয়াইফাই চালু করো
+ban_290.wav|ওয়াইফাই বন্ধ করো
+ban_291.wav|স্ক্রিন রেকর্ড শুরু করো
+ban_292.wav|স্ক্রিন রেকর্ড বন্ধ করো
+ban_293.wav|স্ক্রিনশট নাও
+ban_294.wav|স্ক্রিনশট সংরক্ষণ করো
+ban_295.wav|স্ক্রিনশট শেয়ার করো
+ban_296.wav|গ্যালারি খুলো
+ban_297.wav|ছবি মুছে দাও
+ban_298.wav|ছবি আপলোড করো
+ban_299.wav|ফাইল ডাউনলোড করো
+ban_300.wav|আপডেট ইনস্টল করো
+eng_301.wav|Open system monitor
+eng_302.wav|Close system monitor
+eng_303.wav|Show CPU usage
+eng_304.wav|Show memory usage
+eng_305.wav|Check disk space
+eng_306.wav|Run system diagnostics
+eng_307.wav|Scan for viruses
+eng_308.wav|Update system software
+eng_309.wav|Enable airplane mode
+eng_310.wav|Disable airplane mode
+eng_311.wav|Start navigation mode
+eng_312.wav|Stop navigation mode
+eng_313.wav|Show nearby restaurants
+eng_314.wav|Find nearest hospital
+eng_315.wav|Find nearest gas station
+eng_316.wav|Show nearest pharmacy
+eng_317.wav|Find nearby cafes
+eng_318.wav|Show nearby parks
+eng_319.wav|Search nearby hotels
+eng_320.wav|Show nearby stores
+eng_321.wav|Tell me a joke
+eng_322.wav|Tell me a story
+eng_323.wav|Read today's news
+eng_324.wav|Tell sports news
+eng_325.wav|Tell technology news
+eng_326.wav|What's the temperature today
+eng_327.wav|Will it rain today
+eng_328.wav|Is it sunny outside
+eng_329.wav|Show weekly forecast
+eng_330.wav|Show monthly forecast
+eng_331.wav|Start the assistant
+eng_332.wav|Stop the assistant
+eng_333.wav|Wake up assistant
+eng_334.wav|Go to sleep assistant
+eng_335.wav|Activate voice mode
+eng_336.wav|Deactivate voice mode
+eng_337.wav|Start listening mode
+eng_338.wav|Stop listening mode
+eng_339.wav|Enable voice control
+eng_340.wav|Disable voice control
+eng_341.wav|Turn on dark mode
+eng_342.wav|Turn off dark mode
+eng_343.wav|Enable night mode
+eng_344.wav|Disable night mode
+eng_345.wav|Increase system brightness
+eng_346.wav|Decrease system brightness
+eng_347.wav|Change system language
+eng_348.wav|Show language settings
+eng_349.wav|Open accessibility settings
+eng_350.wav|Close accessibility settings
+ban_351.wav|সিস্টেম মনিটর খুলো
+ban_352.wav|সিস্টেম মনিটর বন্ধ করো
+ban_353.wav|সিপিইউ ব্যবহার দেখাও
+ban_354.wav|মেমোরি ব্যবহার দেখাও
+ban_355.wav|ডিস্ক স্পেস দেখাও
+ban_356.wav|সিস্টেম পরীক্ষা চালাও
+ban_357.wav|ভাইরাস স্ক্যান চালাও
+ban_358.wav|সফটওয়্যার আপডেট করো
+ban_359.wav|এয়ারপ্লেন মোড চালু করো
+ban_360.wav|এয়ারপ্লেন মোড বন্ধ করো
+ban_361.wav|নেভিগেশন চালু করো
+ban_362.wav|নেভিগেশন বন্ধ করো
+ban_363.wav|কাছের রেস্টুরেন্ট দেখাও
+ban_364.wav|কাছের হাসপাতাল দেখাও
+ban_365.wav|কাছের গ্যাস স্টেশন দেখাও
+ban_366.wav|কাছের ফার্মেসি দেখাও
+ban_367.wav|কাছের ক্যাফে দেখাও
+ban_368.wav|কাছের পার্ক দেখাও
+ban_369.wav|কাছের হোটেল খুঁজে দাও
+ban_370.wav|কাছের দোকান দেখাও
+ban_371.wav|একটা মজার কথা বলো
+ban_372.wav|একটা গল্প বলো
+ban_373.wav|আজকের খবর বলো
+ban_374.wav|খেলাধুলার খবর বলো
+ban_375.wav|প্রযুক্তির খবর বলো
+ban_376.wav|আজ তাপমাত্রা কত
+ban_377.wav|আজ কি বৃষ্টি হবে
+ban_378.wav|বাইরে কি রোদ আছে
+ban_379.wav|সাপ্তাহিক আবহাওয়া দেখাও
+ban_380.wav|মাসিক আবহাওয়া দেখাও
+ban_381.wav|সহকারী চালু করো
+ban_382.wav|সহকারী বন্ধ করো
+ban_383.wav|সহকারী জাগাও
+ban_384.wav|সহকারী ঘুমাও
+ban_385.wav|ভয়েস মোড চালু করো
+ban_386.wav|ভয়েস মোড বন্ধ করো
+ban_387.wav|শুনতে শুরু করো
+ban_388.wav|শোনা বন্ধ করো
+ban_389.wav|ভয়েস নিয়ন্ত্রণ চালু করো
+ban_390.wav|ভয়েস নিয়ন্ত্রণ বন্ধ করো
+ban_391.wav|ডার্ক মোড চালু করো
+ban_392.wav|ডার্ক মোড বন্ধ করো
+ban_393.wav|নাইট মোড চালু করো
+ban_394.wav|নাইট মোড বন্ধ করো
+ban_395.wav|স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_396.wav|স্ক্রিন উজ্জ্বলতা কমাও
+ban_397.wav|ভাষা পরিবর্তন করো
+ban_398.wav|ভাষা সেটিংস দেখাও
+ban_399.wav|অ্যাক্সেসিবিলিটি সেটিংস খুলো
+ban_400.wav|অ্যাক্সেসিবিলিটি সেটিংস বন্ধ করো
+eng_401.wav|Turn on study lamp
+eng_402.wav|Turn off study lamp
+eng_403.wav|Open side window
+eng_404.wav|Close side window
+eng_405.wav|Increase system volume
+eng_406.wav|Decrease system volume
+eng_407.wav|Play relaxing piano music
+eng_408.wav|Stop piano music
+eng_409.wav|Tell me system time
+eng_410.wav|Tell tomorrow weather
+eng_411.wav|Set alarm for six
+eng_412.wav|Cancel six alarm
+eng_413.wav|Open notes application
+eng_414.wav|Show saved notes
+eng_415.wav|Start timer ten minutes
+eng_416.wav|Stop timer ten minutes
+eng_417.wav|Pause this podcast
+eng_418.wav|Resume this podcast
+eng_419.wav|Skip current track
+eng_420.wav|Replay current track
+eng_421.wav|Show monthly calendar
+eng_422.wav|Add meeting reminder
+eng_423.wav|Delete meeting reminder
+eng_424.wav|Read latest alerts
+eng_425.wav|Increase display brightness
+eng_426.wav|Decrease display brightness
+eng_427.wav|Launch internet browser
+eng_428.wav|Exit internet browser
+eng_429.wav|Search technology news
+eng_430.wav|Start music streaming
+eng_431.wav|Stop music streaming
+eng_432.wav|Lock screen now
+eng_433.wav|Unlock screen now
+eng_434.wav|Open rear camera
+eng_435.wav|Capture quick image
+eng_436.wav|Start camera recording
+eng_437.wav|Stop camera recording
+eng_438.wav|Open control panel
+eng_439.wav|Close control panel
+eng_440.wav|Restart operating system
+eng_441.wav|Shutdown operating system
+eng_442.wav|Show device information
+eng_443.wav|Launch calculator app
+eng_444.wav|Exit calculator app
+eng_445.wav|Show calendar events
+eng_446.wav|Show weekly forecast
+eng_447.wav|Activate voice assistant
+eng_448.wav|Deactivate voice assistant
+eng_449.wav|Enable silent notifications
+eng_450.wav|Disable silent notifications
+ban_451.wav|পড়ার ল্যাম্প চালু করো
+ban_452.wav|পড়ার ল্যাম্প বন্ধ করো
+ban_453.wav|পাশের জানালা খুলো
+ban_454.wav|পাশের জানালা বন্ধ করো
+ban_455.wav|সিস্টেম ভলিউম বাড়াও
+ban_456.wav|সিস্টেম ভলিউম কমাও
+ban_457.wav|পিয়ানো মিউজিক চালাও
+ban_458.wav|পিয়ানো মিউজিক বন্ধ করো
+ban_459.wav|সিস্টেম সময় বলো
+ban_460.wav|আগামীকালের আবহাওয়া বলো
+ban_461.wav|ছয়টার অ্যালার্ম দাও
+ban_462.wav|ছয়টার অ্যালার্ম বাতিল করো
+ban_463.wav|নোটস অ্যাপ খুলো
+ban_464.wav|সংরক্ষিত নোট দেখাও
+ban_465.wav|দশ মিনিট টাইমার দাও
+ban_466.wav|দশ মিনিট টাইমার বন্ধ করো
+ban_467.wav|পডকাস্ট থামাও
+ban_468.wav|পডকাস্ট আবার চালাও
+ban_469.wav|বর্তমান গান স্কিপ করো
+ban_470.wav|বর্তমান গান আবার চালাও
+ban_471.wav|মাসিক ক্যালেন্ডার দেখাও
+ban_472.wav|মিটিং রিমাইন্ডার যোগ করো
+ban_473.wav|মিটিং রিমাইন্ডার মুছে দাও
+ban_474.wav|নতুন এলার্ট পড়ো
+ban_475.wav|ডিসপ্লে উজ্জ্বলতা বাড়াও
+ban_476.wav|ডিসপ্লে উজ্জ্বলতা কমাও
+ban_477.wav|ইন্টারনেট ব্রাউজার চালু করো
+ban_478.wav|ইন্টারনেট ব্রাউজার বন্ধ করো
+ban_479.wav|প্রযুক্তি সংবাদ খুঁজে দাও
+ban_480.wav|মিউজিক স্ট্রিমিং চালু করো
+ban_481.wav|মিউজিক স্ট্রিমিং বন্ধ করো
+ban_482.wav|স্ক্রিন লক করো
+ban_483.wav|স্ক্রিন আনলক করো
+ban_484.wav|পেছনের ক্যামেরা খুলো
+ban_485.wav|দ্রুত ছবি توলো
+ban_486.wav|ক্যামেরা রেকর্ড শুরু করো
+ban_487.wav|ক্যামেরা রেকর্ড বন্ধ করো
+ban_488.wav|কন্ট্রোল প্যানেল খুলো
+ban_489.wav|কন্ট্রোল প্যানেল বন্ধ করো
+ban_490.wav|অপারেটিং সিস্টেম রিস্টার্ট করো
+ban_491.wav|অপারেটিং সিস্টেম বন্ধ করো
+ban_492.wav|ডিভাইস তথ্য দেখাও
+ban_493.wav|ক্যালকুলেটর অ্যাপ চালু করো
+ban_494.wav|ক্যালকুলেটর অ্যাপ বন্ধ করো
+ban_495.wav|ক্যালেন্ডার ইভেন্ট দেখাও
+ban_496.wav|সাপ্তাহিক পূর্বাভাস দেখাও
+ban_497.wav|ভয়েস সহকারী চালু করো
+ban_498.wav|ভয়েস সহকারী বন্ধ করো
+ban_499.wav|নীরব নোটিফিকেশন চালু করো
+ban_500.wav|নীরব নোটিফিকেশন বন্ধ করো
+eng_501.wav|Turn on the desk lamp
+eng_502.wav|Turn off the desk lamp
+eng_503.wav|Open the music library
+eng_504.wav|Close the music library
+eng_505.wav|Show today's reminders
+eng_506.wav|Remove today's reminder
+eng_507.wav|Play morning playlist
+eng_508.wav|Stop morning playlist
+eng_509.wav|Check today's meetings
+eng_510.wav|Cancel today's meeting
+eng_511.wav|Open system dashboard
+eng_512.wav|Close system dashboard
+eng_513.wav|Show current battery health
+eng_514.wav|Show storage information
+eng_515.wav|Clean system cache
+eng_516.wav|Open user profile
+eng_517.wav|Close user profile
+eng_518.wav|Show account settings
+eng_519.wav|Update profile information
+eng_520.wav|Log out from account
+eng_521.wav|Show nearby hospitals
+eng_522.wav|Find nearest supermarket
+eng_523.wav|Search nearby restaurants
+eng_524.wav|Show nearby bus stops
+eng_525.wav|Show nearby train station
+eng_526.wav|Find nearest ATM machine
+eng_527.wav|Search nearby pharmacy
+eng_528.wav|Show nearby coffee shops
+eng_529.wav|Find nearby bookstores
+eng_530.wav|Locate nearest police station
+eng_531.wav|Start meditation music
+eng_532.wav|Stop meditation music
+eng_533.wav|Play relaxing background music
+eng_534.wav|Increase music bass level
+eng_535.wav|Decrease music bass level
+eng_536.wav|Show playlist details
+eng_537.wav|Delete current playlist
+eng_538.wav|Create new playlist
+eng_539.wav|Save this playlist
+eng_540.wav|Load saved playlist
+eng_541.wav|Open security settings
+eng_542.wav|Close security settings
+eng_543.wav|Enable system firewall
+eng_544.wav|Disable system firewall
+eng_545.wav|Run security scan
+eng_546.wav|Check system permissions
+eng_547.wav|Update security policy
+eng_548.wav|Reset security settings
+eng_549.wav|Show login history
+eng_550.wav|Clear login history
+ban_551.wav|ডেস্ক ল্যাম্প চালু করো
+ban_552.wav|ডেস্ক ল্যাম্প বন্ধ করো
+ban_553.wav|মিউজিক লাইব্রেরি খুলো
+ban_554.wav|মিউজিক লাইব্রেরি বন্ধ করো
+ban_555.wav|আজকের রিমাইন্ডার দেখাও
+ban_556.wav|আজকের রিমাইন্ডার মুছে দাও
+ban_557.wav|সকালবেলার গান চালাও
+ban_558.wav|সকালবেলার গান বন্ধ করো
+ban_559.wav|আজকের মিটিং দেখাও
+ban_560.wav|আজকের মিটিং বাতিল করো
+ban_561.wav|সিস্টেম ড্যাশবোর্ড খুলো
+ban_562.wav|সিস্টেম ড্যাশবোর্ড বন্ধ করো
+ban_563.wav|ব্যাটারি অবস্থা দেখাও
+ban_564.wav|স্টোরেজ তথ্য দেখাও
+ban_565.wav|সিস্টেম ক্যাশ পরিষ্কার করো
+ban_566.wav|ব্যবহারকারী প্রোফাইল খুলো
+ban_567.wav|ব্যবহারকারী প্রোফাইল বন্ধ করো
+ban_568.wav|অ্যাকাউন্ট সেটিংস দেখাও
+ban_569.wav|প্রোফাইল তথ্য আপডেট করো
+ban_570.wav|অ্যাকাউন্ট থেকে লগ আউট করো
+ban_571.wav|কাছের হাসপাতাল দেখাও
+ban_572.wav|কাছের সুপারমার্কেট খুঁজে দাও
+ban_573.wav|কাছের রেস্টুরেন্ট খুঁজে দাও
+ban_574.wav|কাছের বাস স্টপ দেখাও
+ban_575.wav|কাছের ট্রেন স্টেশন দেখাও
+ban_576.wav|কাছের এটিএম খুঁজে দাও
+ban_577.wav|কাছের ফার্মেসি দেখাও
+ban_578.wav|কাছের কফি শপ দেখাও
+ban_579.wav|কাছের বইয়ের দোকান দেখাও
+ban_580.wav|কাছের থানার অবস্থান দেখাও
+ban_581.wav|ধ্যানের মিউজিক চালাও
+ban_582.wav|ধ্যানের মিউজিক বন্ধ করো
+ban_583.wav|শান্ত মিউজিক চালাও
+ban_584.wav|মিউজিক বেস বাড়াও
+ban_585.wav|মিউজিক বেস কমাও
+ban_586.wav|প্লেলিস্ট বিস্তারিত দেখাও
+ban_587.wav|বর্তমান প্লেলিস্ট মুছে দাও
+ban_588.wav|নতুন প্লেলিস্ট তৈরি করো
+ban_589.wav|প্লেলিস্ট সংরক্ষণ করো
+ban_590.wav|সংরক্ষিত প্লেলিস্ট চালাও
+ban_591.wav|সিকিউরিটি সেটিংস খুলো
+ban_592.wav|সিকিউরিটি সেটিংস বন্ধ করো
+ban_593.wav|ফায়ারওয়াল চালু করো
+ban_594.wav|ফায়ারওয়াল বন্ধ করো
+ban_595.wav|সিকিউরিটি স্ক্যান চালাও
+ban_596.wav|অনুমতি তালিকা দেখাও
+ban_597.wav|সিকিউরিটি নীতি আপডেট করো
+ban_598.wav|সিকিউরিটি সেটিংস রিসেট করো
+ban_599.wav|লগইন ইতিহাস দেখাও
+ban_600.wav|লগইন ইতিহাস মুছে দাও
+eng_601.wav|Turn on the hallway light now
+eng_602.wav|Turn off the hallway light now
+eng_603.wav|Open the living room window
+eng_604.wav|Close the living room window
+eng_605.wav|Increase the speaker volume slightly
+eng_606.wav|Decrease the speaker volume slightly
+eng_607.wav|Play relaxing instrumental music please
+eng_608.wav|Stop the instrumental music now
+eng_609.wav|Tell me the exact time now
+eng_610.wav|Show today's complete weather forecast
+eng_611.wav|Set alarm for tomorrow morning six
+eng_612.wav|Cancel tomorrow morning alarm immediately
+eng_613.wav|Open the notes application quickly
+eng_614.wav|Show my saved meeting notes
+eng_615.wav|Start a ten minute timer now
+eng_616.wav|Stop the running timer immediately
+eng_617.wav|Pause the currently playing podcast
+eng_618.wav|Resume the paused podcast playback
+eng_619.wav|Skip the currently playing music track
+eng_620.wav|Replay the previously played music track
+eng_621.wav|Show my full weekly schedule
+eng_622.wav|Add reminder for tomorrow's team meeting
+eng_623.wav|Delete reminder for tomorrow's meeting
+eng_624.wav|Read all unread notifications aloud
+eng_625.wav|Increase the laptop screen brightness level
+eng_626.wav|Reduce the laptop screen brightness level
+eng_627.wav|Open the default web browser
+eng_628.wav|Close the default web browser
+eng_629.wav|Search latest technology news online
+eng_630.wav|Play live radio station now
+eng_631.wav|Stop playing live radio station
+eng_632.wav|Lock the laptop screen immediately
+eng_633.wav|Unlock the laptop screen now
+eng_634.wav|Open the rear camera application
+eng_635.wav|Capture a clear photo quickly
+eng_636.wav|Start recording a short video
+eng_637.wav|Stop recording the current video
+eng_638.wav|Open the advanced system settings
+eng_639.wav|Close the advanced system settings
+eng_640.wav|Restart the entire computer system
+eng_641.wav|Shut down the computer completely
+eng_642.wav|Show current system health status
+eng_643.wav|Launch the calculator application now
+eng_644.wav|Close the calculator application now
+eng_645.wav|Show today's date and time
+eng_646.wav|Show tomorrow's weather prediction
+eng_647.wav|Activate voice assistant listening mode
+eng_648.wav|Deactivate voice assistant listening mode
+eng_649.wav|Enable silent notification mode now
+eng_650.wav|Disable silent notification mode now
+ban_651.wav|করিডরের লাইট এখন চালু করো
+ban_652.wav|করিডরের লাইট এখন বন্ধ করো
+ban_653.wav|বসার ঘরের জানালা খুলো
+ban_654.wav|বসার ঘরের জানালা বন্ধ করো
+ban_655.wav|স্পিকারের ভলিউম একটু বাড়াও
+ban_656.wav|স্পিকারের ভলিউম একটু কমাও
+ban_657.wav|শান্ত ইন্সট্রুমেন্টাল গান চালাও
+ban_658.wav|ইন্সট্রুমেন্টাল গান এখন বন্ধ করো
+ban_659.wav|এখন সঠিক সময় বলো
+ban_660.wav|আজকের পুরো আবহাওয়ার পূর্বাভাস দেখাও
+ban_661.wav|আগামীকাল সকাল ছয়টার অ্যালার্ম দাও
+ban_662.wav|আগামীকাল সকালের অ্যালার্ম বাতিল করো
+ban_663.wav|দ্রুত নোটস অ্যাপ খুলো
+ban_664.wav|আমার সংরক্ষিত মিটিং নোট দেখাও
+ban_665.wav|দশ মিনিটের টাইমার এখন চালু করো
+ban_666.wav|চলমান টাইমার এখন বন্ধ করো
+ban_667.wav|চলমান পডকাস্ট এখন থামাও
+ban_668.wav|থামানো পডকাস্ট আবার চালাও
+ban_669.wav|বর্তমান গানটি স্কিপ করো
+ban_670.wav|আগের গানটি আবার চালাও
+ban_671.wav|আমার সাপ্তাহিক সময়সূচি দেখাও
+ban_672.wav|আগামীকালের মিটিংয়ের রিমাইন্ডার দাও
+ban_673.wav|মিটিং রিমাইন্ডার এখন মুছে দাও
+ban_674.wav|সব অপঠিত নোটিফিকেশন পড়ে শোনাও
+ban_675.wav|ল্যাপটপের স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_676.wav|ল্যাপটপের স্ক্রিন উজ্জ্বলতা কমাও
+ban_677.wav|ডিফল্ট ওয়েব ব্রাউজার খুলো
+ban_678.wav|ডিফল্ট ওয়েব ব্রাউজার বন্ধ করো
+ban_679.wav|প্রযুক্তি সম্পর্কিত নতুন খবর খুঁজে দাও
+ban_680.wav|লাইভ রেডিও স্টেশন চালাও
+ban_681.wav|লাইভ রেডিও এখন বন্ধ করো
+ban_682.wav|ল্যাপটপ স্ক্রিন লক করো
+ban_683.wav|ল্যাপটপ স্ক্রিন আনলক করো
+ban_684.wav|পেছনের ক্যামেরা অ্যাপ খুলো
+ban_685.wav|দ্রুত পরিষ্কার ছবি তোলো
+ban_686.wav|একটি ছোট ভিডিও রেকর্ড করো
+ban_687.wav|ভিডিও রেকর্ড এখন বন্ধ করো
+ban_688.wav|উন্নত সিস্টেম সেটিংস খুলো
+ban_689.wav|উন্নত সিস্টেম সেটিংস বন্ধ করো
+ban_690.wav|পুরো কম্পিউটার রিস্টার্ট করো
+ban_691.wav|কম্পিউটার সম্পূর্ণ বন্ধ করো
+ban_692.wav|বর্তমান সিস্টেম অবস্থা দেখাও
+ban_693.wav|ক্যালকুলেটর অ্যাপ এখন চালু করো
+ban_694.wav|ক্যালকুলেটর অ্যাপ এখন বন্ধ করো
+ban_695.wav|আজকের তারিখ এবং সময় বলো
+ban_696.wav|আগামীকালের আবহাওয়া পূর্বাভাস বলো
+ban_697.wav|ভয়েস সহকারী শোনা চালু করো
+ban_698.wav|ভয়েস সহকারী শোনা বন্ধ করো
+ban_699.wav|সাইলেন্ট নোটিফিকেশন মোড চালু করো
+ban_700.wav|সাইলেন্ট নোটিফিকেশন মোড বন্ধ করো
+eng_701.wav|Turn on the office desk lamp
+eng_702.wav|Turn off the office desk lamp
+eng_703.wav|Open the study room window
+eng_704.wav|Close the study room window
+eng_705.wav|Increase system sound level slightly
+eng_706.wav|Reduce system sound level slightly
+eng_707.wav|Play calm evening background music
+eng_708.wav|Stop the background music now
+eng_709.wav|Tell the exact current system time
+eng_710.wav|Show full weather forecast today
+eng_711.wav|Set alarm for seven tomorrow morning
+eng_712.wav|Cancel the alarm for tomorrow morning
+eng_713.wav|Open the personal notes application
+eng_714.wav|Show recently saved notes quickly
+eng_715.wav|Start fifteen minute countdown timer
+eng_716.wav|Stop the active countdown timer
+eng_717.wav|Pause the currently playing video
+eng_718.wav|Resume the paused video playback
+eng_719.wav|Skip the currently playing song
+eng_720.wav|Replay the last played song
+eng_721.wav|Display my weekly meeting schedule
+eng_722.wav|Add reminder for tomorrow office meeting
+eng_723.wav|Delete reminder for tomorrow meeting
+eng_724.wav|Read latest system notifications aloud
+eng_725.wav|Increase laptop display brightness slightly
+eng_726.wav|Reduce laptop display brightness slightly
+eng_727.wav|Open the main internet browser
+eng_728.wav|Close the internet browser window
+eng_729.wav|Search global technology news online
+eng_730.wav|Play the live online radio
+eng_731.wav|Stop the live radio playback
+eng_732.wav|Lock the laptop screen immediately
+eng_733.wav|Unlock the laptop screen again
+eng_734.wav|Open the front camera application
+eng_735.wav|Capture a quick high quality photo
+eng_736.wav|Start recording a short video
+eng_737.wav|Stop recording the short video
+eng_738.wav|Open advanced device settings panel
+eng_739.wav|Close advanced device settings panel
+eng_740.wav|Restart the operating system now
+eng_741.wav|Shut down the computer safely
+eng_742.wav|Display current system health information
+eng_743.wav|Launch the calculator application quickly
+eng_744.wav|Exit the calculator application now
+eng_745.wav|Show today's calendar events
+eng_746.wav|Show tomorrow weather forecast details
+eng_747.wav|Activate voice assistant listening mode
+eng_748.wav|Deactivate voice assistant listening mode
+eng_749.wav|Enable quiet notification mode now
+eng_750.wav|Disable quiet notification mode now
+ban_751.wav|অফিস ডেস্ক ল্যাম্প চালু করো
+ban_752.wav|অফিস ডেস্ক ল্যাম্প বন্ধ করো
+ban_753.wav|পড়ার ঘরের জানালা খুলো
+ban_754.wav|পড়ার ঘরের জানালা বন্ধ করো
+ban_755.wav|সিস্টেম সাউন্ড একটু বাড়াও
+ban_756.wav|সিস্টেম সাউন্ড একটু কমাও
+ban_757.wav|সন্ধ্যার শান্ত মিউজিক চালাও
+ban_758.wav|মিউজিক এখন বন্ধ করো
+ban_759.wav|সঠিক বর্তমান সময় বলো
+ban_760.wav|আজকের পূর্ণ আবহাওয়া দেখাও
+ban_761.wav|আগামীকাল সাতটার অ্যালার্ম দাও
+ban_762.wav|আগামীকাল সকালের অ্যালার্ম বাতিল করো
+ban_763.wav|ব্যক্তিগত নোটস অ্যাপ খুলো
+ban_764.wav|সাম্প্রতিক সংরক্ষিত নোট দেখাও
+ban_765.wav|পনেরো মিনিট টাইমার চালু করো
+ban_766.wav|সক্রিয় টাইমার এখন বন্ধ করো
+ban_767.wav|চলমান ভিডিও এখন থামাও
+ban_768.wav|থামানো ভিডিও আবার চালাও
+ban_769.wav|চলমান গানটি স্কিপ করো
+ban_770.wav|আগের গানটি আবার চালাও
+ban_771.wav|আমার সাপ্তাহিক মিটিং সময়সূচি দেখাও
+ban_772.wav|আগামীকালের অফিস মিটিং রিমাইন্ডার দাও
+ban_773.wav|আগামীকালের মিটিং রিমাইন্ডার মুছে দাও
+ban_774.wav|নতুন সিস্টেম নোটিফিকেশন পড়ে শোনাও
+ban_775.wav|ল্যাপটপ স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_776.wav|ল্যাপটপ স্ক্রিন উজ্জ্বলতা কমাও
+ban_777.wav|প্রধান ইন্টারনেট ব্রাউজার খুলো
+ban_778.wav|ব্রাউজার উইন্ডো বন্ধ করো
+ban_779.wav|প্রযুক্তি সম্পর্কিত বিশ্ব সংবাদ খুঁজে দাও
+ban_780.wav|লাইভ অনলাইন রেডিও চালাও
+ban_781.wav|লাইভ রেডিও এখন বন্ধ করো
+ban_782.wav|ল্যাপটপ স্ক্রিন এখন লক করো
+ban_783.wav|ল্যাপটপ স্ক্রিন আনলক করো
+ban_784.wav|সামনের ক্যামেরা অ্যাপ খুলো
+ban_785.wav|দ্রুত পরিষ্কার ছবি তোলো
+ban_786.wav|ছোট একটি ভিডিও রেকর্ড করো
+ban_787.wav|ভিডিও রেকর্ড এখন বন্ধ করো
+ban_788.wav|উন্নত ডিভাইস সেটিংস খুলো
+ban_789.wav|উন্নত ডিভাইস সেটিংস বন্ধ করো
+ban_790.wav|অপারেটিং সিস্টেম রিস্টার্ট করো
+ban_791.wav|কম্পিউটার নিরাপদভাবে বন্ধ করো
+ban_792.wav|বর্তমান সিস্টেম তথ্য দেখাও
+ban_793.wav|ক্যালকুলেটর দ্রুত চালু করো
+ban_794.wav|ক্যালকুলেটর এখন বন্ধ করো
+ban_795.wav|আজকের ক্যালেন্ডার ইভেন্ট দেখাও
+ban_796.wav|আগামীকালের আবহাওয়া বিস্তারিত বলো
+ban_797.wav|ভয়েস সহকারী শোনা চালু করো
+ban_798.wav|ভয়েস সহকারী শোনা বন্ধ করো
+ban_799.wav|নীরব নোটিফিকেশন মোড চালু করো
+ban_800.wav|নীরব নোটিফিকেশন মোড বন্ধ করো
+eng_801.wav|Turn on the bedroom ceiling light
+eng_802.wav|Turn off the bedroom ceiling light
+eng_803.wav|Open the balcony glass door
+eng_804.wav|Close the balcony glass door
+eng_805.wav|Increase microphone recording sensitivity
+eng_806.wav|Decrease microphone recording sensitivity
+eng_807.wav|Play relaxing morning meditation music
+eng_808.wav|Stop meditation music playback
+eng_809.wav|Tell the system time now
+eng_810.wav|Show detailed weather forecast today
+eng_811.wav|Set alarm for tomorrow evening
+eng_812.wav|Cancel tomorrow evening alarm
+eng_813.wav|Open my digital notebook
+eng_814.wav|Display saved notebook entries
+eng_815.wav|Start twenty minute timer
+eng_816.wav|Cancel the running timer
+eng_817.wav|Pause the playing podcast now
+eng_818.wav|Resume the paused podcast again
+eng_819.wav|Skip the current music track
+eng_820.wav|Repeat the previous music track
+eng_821.wav|Display today's work schedule
+eng_822.wav|Add reminder for project deadline
+eng_823.wav|Remove reminder for project deadline
+eng_824.wav|Read unread alerts aloud
+eng_825.wav|Increase phone display brightness level
+eng_826.wav|Decrease phone display brightness level
+eng_827.wav|Launch the internet browser
+eng_828.wav|Exit the internet browser
+eng_829.wav|Search for local news updates
+eng_830.wav|Play the internet radio
+eng_831.wav|Stop the internet radio
+eng_832.wav|Lock my computer screen
+eng_833.wav|Unlock my computer screen
+eng_834.wav|Open the back camera
+eng_835.wav|Take a quick snapshot photo
+eng_836.wav|Begin recording a short video
+eng_837.wav|End the video recording
+eng_838.wav|Open device control settings
+eng_839.wav|Close device control settings
+eng_840.wav|Restart the device now
+eng_841.wav|Power off the device safely
+eng_842.wav|Display device information now
+eng_843.wav|Open calculator for quick math
+eng_844.wav|Close calculator after calculation
+eng_845.wav|Show today's full calendar
+eng_846.wav|Show tomorrow weather prediction
+eng_847.wav|Activate the voice assistant
+eng_848.wav|Deactivate the voice assistant
+eng_849.wav|Enable silent notifications now
+eng_850.wav|Disable silent notifications now
+ban_851.wav|বেডরুম সিলিং লাইট চালু করো
+ban_852.wav|বেডরুম সিলিং লাইট বন্ধ করো
+ban_853.wav|বারান্দার কাচের দরজা খুলো
+ban_854.wav|বারান্দার কাচের দরজা বন্ধ করো
+ban_855.wav|মাইক্রোফোন সংবেদনশীলতা বাড়াও
+ban_856.wav|মাইক্রোফোন সংবেদনশীলতা কমাও
+ban_857.wav|সকালের ধ্যানের গান চালাও
+ban_858.wav|ধ্যানের গান বন্ধ করো
+ban_859.wav|সিস্টেম সময় এখন বলো
+ban_860.wav|আজকের বিস্তারিত আবহাওয়া দেখাও
+ban_861.wav|আগামীকাল সন্ধ্যার অ্যালার্ম দাও
+ban_862.wav|আগামীকাল সন্ধ্যার অ্যালার্ম বাতিল করো
+ban_863.wav|আমার ডিজিটাল নোটবুক খুলো
+ban_864.wav|সংরক্ষিত নোট দেখাও
+ban_865.wav|বিশ মিনিট টাইমার চালু করো
+ban_866.wav|চলমান টাইমার বাতিল করো
+ban_867.wav|পডকাস্ট এখন থামাও
+ban_868.wav|পডকাস্ট আবার চালাও
+ban_869.wav|বর্তমান গান স্কিপ করো
+ban_870.wav|আগের গান আবার চালাও
+ban_871.wav|আজকের কাজের সময়সূচি দেখাও
+ban_872.wav|প্রকল্প ডেডলাইন রিমাইন্ডার দাও
+ban_873.wav|প্রকল্প রিমাইন্ডার মুছে দাও
+ban_874.wav|অপঠিত এলার্ট পড়ে শোনাও
+ban_875.wav|ফোন স্ক্রিন উজ্জ্বলতা বাড়াও
+ban_876.wav|ফোন স্ক্রিন উজ্জ্বলতা কমাও
+ban_877.wav|ইন্টারনেট ব্রাউজার চালু করো
+ban_878.wav|ইন্টারনেট ব্রাউজার বন্ধ করো
+ban_879.wav|স্থানীয় সংবাদ খুঁজে দাও
+ban_880.wav|ইন্টারনেট রেডিও চালাও
+ban_881.wav|ইন্টারনেট রেডিও বন্ধ করো
+ban_882.wav|কম্পিউটার স্ক্রিন লক করো
+ban_883.wav|কম্পিউটার স্ক্রিন আনলক করো
+ban_884.wav|পেছনের ক্যামেরা খুলো
+ban_885.wav|দ্রুত একটি ছবি তোলো
+ban_886.wav|ছোট ভিডিও রেকর্ড শুরু করো
+ban_887.wav|ভিডিও রেকর্ড শেষ করো
+ban_888.wav|ডিভাইস নিয়ন্ত্রণ সেটিংস খুলো
+ban_889.wav|ডিভাইস নিয়ন্ত্রণ সেটিংস বন্ধ করো
+ban_890.wav|ডিভাইস রিস্টার্ট করো
+ban_891.wav|ডিভাইস নিরাপদে বন্ধ করো
+ban_892.wav|ডিভাইস তথ্য দেখাও
+ban_893.wav|দ্রুত হিসাবের জন্য ক্যালকুলেটর খুলো
+ban_894.wav|হিসাব শেষে ক্যালকুলেটর বন্ধ করো
+ban_895.wav|আজকের পুরো ক্যালেন্ডার দেখাও
+ban_896.wav|আগামীকালের আবহাওয়া বলো
+ban_897.wav|ভয়েস সহকারী সক্রিয় করো
+ban_898.wav|ভয়েস সহকারী নিষ্ক্রিয় করো
+ban_899.wav|নীরব নোটিফিকেশন চালু করো
+ban_900.wav|নীরব নোটিফিকেশন বন্ধ করো
+eng_901.wav|Turn on the hallway ceiling light
+eng_902.wav|Turn off the hallway ceiling light
+eng_903.wav|Open the kitchen side window
+eng_904.wav|Close the kitchen side window
+eng_905.wav|Increase the system audio level
+eng_906.wav|Decrease the system audio level
+eng_907.wav|Play relaxing ambient background music
+eng_908.wav|Stop the ambient background music
+eng_909.wav|Tell the exact current time
+eng_910.wav|Show today's weather report
+eng_911.wav|Set alarm for tomorrow afternoon
+eng_912.wav|Cancel tomorrow afternoon alarm
+eng_913.wav|Open personal task manager
+eng_914.wav|Display pending tasks list
+eng_915.wav|Start a thirty minute timer
+eng_916.wav|Stop the thirty minute timer
+eng_917.wav|Pause the playing documentary
+eng_918.wav|Resume the paused documentary
+eng_919.wav|Skip this music track
+eng_920.wav|Replay the previous music track
+eng_921.wav|Show monthly work schedule
+eng_922.wav|Add reminder for weekly meeting
+eng_923.wav|Delete weekly meeting reminder
+eng_924.wav|Read latest alerts aloud
+eng_925.wav|Increase display brightness level
+eng_926.wav|Reduce display brightness level
+eng_927.wav|Open the default browser
+eng_928.wav|Close the default browser
+eng_929.wav|Search global news headlines
+eng_930.wav|Play streaming internet radio
+eng_931.wav|Stop streaming internet radio
+eng_932.wav|Lock the desktop screen
+eng_933.wav|Unlock the desktop screen
+eng_934.wav|Open the camera quickly
+eng_935.wav|Capture a quick photo
+eng_936.wav|Start recording short video
+eng_937.wav|Stop recording short video
+eng_938.wav|Open system control settings
+eng_939.wav|Close system control settings
+eng_940.wav|Restart the system now
+eng_941.wav|Shut down the system safely
+eng_942.wav|Display hardware information now
+eng_943.wav|Launch calculator application
+eng_944.wav|Exit calculator application
+eng_945.wav|Show today's calendar schedule
+eng_946.wav|Show tomorrow weather report
+eng_947.wav|Activate assistant listening
+eng_948.wav|Deactivate assistant listening
+eng_949.wav|Enable quiet notification mode
+eng_950.wav|Disable quiet notification mode
+ban_951.wav|করিডরের সিলিং লাইট চালু করো
+ban_952.wav|করিডরের সিলিং লাইট বন্ধ করো
+ban_953.wav|রান্নাঘরের পাশের জানালা খুলো
+ban_954.wav|রান্নাঘরের পাশের জানালা বন্ধ করো
+ban_955.wav|সিস্টেম অডিও বাড়াও
+ban_956.wav|সিস্টেম অডিও কমাও
+ban_957.wav|শান্ত পরিবেশ মিউজিক চালাও
+ban_958.wav|পরিবেশ মিউজিক বন্ধ করো
+ban_959.wav|সঠিক বর্তমান সময় বলো
+ban_960.wav|আজকের আবহাওয়ার রিপোর্ট দেখাও
+ban_961.wav|আগামীকাল বিকালের অ্যালার্ম দাও
+ban_962.wav|আগামীকাল বিকালের অ্যালার্ম বাতিল করো
+ban_963.wav|ব্যক্তিগত টাস্ক ম্যানেজার খুলো
+ban_964.wav|অসমাপ্ত কাজের তালিকা দেখাও
+ban_965.wav|ত্রিশ মিনিট টাইমার চালু করো
+ban_966.wav|ত্রিশ মিনিট টাইমার বন্ধ করো
+ban_967.wav|ডকুমেন্টারি এখন থামাও
+ban_968.wav|ডকুমেন্টারি আবার চালাও
+ban_969.wav|এই গানটি স্কিপ করো
+ban_970.wav|আগের গানটি আবার চালাও
+ban_971.wav|মাসিক কাজের সময়সূচি দেখাও
+ban_972.wav|সাপ্তাহিক মিটিং রিমাইন্ডার দাও
+ban_973.wav|সাপ্তাহিক মিটিং রিমাইন্ডার মুছে দাও
+ban_974.wav|সর্বশেষ এলার্ট পড়ে শোনাও
+ban_975.wav|ডিসপ্লে উজ্জ্বলতা বাড়াও
+ban_976.wav|ডিসপ্লে উজ্জ্বলতা কমাও
+ban_977.wav|ডিফল্ট ব্রাউজার খুলো
+ban_978.wav|ডিফল্ট ব্রাউজার বন্ধ করো
+ban_979.wav|বিশ্ব সংবাদ শিরোনাম খুঁজে দাও
+ban_980.wav|স্ট্রিমিং রেডিও চালাও
+ban_981.wav|স্ট্রিমিং রেডিও বন্ধ করো
+ban_982.wav|ডেস্কটপ স্ক্রিন লক করো
+ban_983.wav|ডেস্কটপ স্ক্রিন আনলক করো
+ban_984.wav|ক্যামেরা দ্রুত খুলো
+ban_985.wav|দ্রুত একটি ছবি তোলো
+ban_986.wav|ছোট ভিডিও রেকর্ড শুরু করো
+ban_987.wav|ছোট ভিডিও রেকর্ড বন্ধ করো
+ban_988.wav|সিস্টেম কন্ট্রোল সেটিংস খুলো
+ban_989.wav|সিস্টেম কন্ট্রোল সেটিংস বন্ধ করো
+ban_990.wav|সিস্টেম এখন রিস্টার্ট করো
+ban_991.wav|সিস্টেম নিরাপদে বন্ধ করো
+ban_992.wav|হার্ডওয়্যার তথ্য দেখাও
+ban_993.wav|ক্যালকুলেটর অ্যাপ চালু করো
+ban_994.wav|ক্যালকুলেটর অ্যাপ বন্ধ করো
+ban_995.wav|আজকের ক্যালেন্ডার সময়সূচি দেখাও
+ban_996.wav|আগামীকালের আবহাওয়ার রিপোর্ট বলো
+ban_997.wav|সহকারী শোনা চালু করো
+ban_998.wav|সহকারী শোনা বন্ধ করো
+ban_999.wav|নীরব নোটিফিকেশন মোড চালু করো
+ban_1000.wav|নীরব নোটিফিকেশন মোড বন্ধ করো
